@@ -29,7 +29,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 ## Situation
-[Situation](/OPAR-Brief/SITUATION/Situation.html) |
+[Situation](/OPAR-Brief/SITUATION/Situation.html) | [Intelligence](/OPAR-Brief/INTELLIGENCE/Intelligence.html) |
 
 
 
