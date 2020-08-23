@@ -64,10 +64,10 @@
 <br>
 <br>
 ## INDEPENDENT UNITS
-- 91st Republican Guard Armored Division (Strategic reserve), Damascus?  (T-80)
-- 922nd Surface-to-Surface Missile Regiment, SCUDs (High Value Targets, unlocated)
-- 923rd Surface-to-Surface Missile Regiment, SCUDs  (High Value Targets, unlocated)
-- 924th Surface-to-Surface Missile Regiment, SCUDs  (High Value Targets, unlocated)
+- 91st Republican Guard Armored Division (Strategic reserve), Damascus  (T-80)
+- 922nd Surface-to-Surface Missile Regiment, SCUDs 
+- 923rd Surface-to-Surface Missile Regiment, SCUDs  
+- 924th Surface-to-Surface Missile Regiment, SCUDs  
 - 931th Special Forces Brigade
 
 
