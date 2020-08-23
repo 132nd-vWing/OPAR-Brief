@@ -12,8 +12,8 @@
 
 
 ## Syrian Air Force
-- INTREP VIS OPAR-003 - Syrian Air Force - DRAFT 3
-- INTREP VIS OPAR-002 - Syrian IADS - DRAFT
+- [INTREP VIS OPAR-002 - Syrian IADS](https://raw.githubusercontent.com/132nd-vWing/VIS/master/OPAR/PUBLISHED/INTREP%20VIS%20OPAR-002%20-%20Syrian%20IADS.pdf)
+- [INTREP VIS OPAR-003 - Syrian Air Force](https://raw.githubusercontent.com/132nd-vWing/VIS/master/OPAR/PUBLISHED/INTREP%20VIS%20OPAR-003%20-%20Syrian%20Air%20Force.pdf)
 
 
 
