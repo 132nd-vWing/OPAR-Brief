@@ -1,4 +1,4 @@
-# 1st Corps (Task to seize Iskenderun)
+# 1st Corps 
 
 ## 10th Armored Division (T-72)
 **101st Armor Brigade**
@@ -160,5 +160,5 @@
 
 
 ## Back
-[Back to Syrian Army](/OPAR-Brief/INTELLIGENCE/Syrian_Army.html) |
-[Back to frontpage](https://132nd-vwing.github.io/OPAR-Brief/)
+- [Back to Syrian Army](/OPAR-Brief/INTELLIGENCE/Syrian_Army.html) 
+- [Back to frontpage](https://132nd-vwing.github.io/OPAR-Brief/)

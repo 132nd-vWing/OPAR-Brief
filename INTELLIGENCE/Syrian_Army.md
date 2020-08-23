@@ -3,8 +3,7 @@
 
 
 ## Syrian Army
-**1st Corps **
-[Syrian Army 1st Corps](/OPAR-Brief/INTELLIGENCE/Syrian_1st_Corps.html) |
+[Syrian Army 1st Corps](/OPAR-Brief/INTELLIGENCE/Syrian_1st_Corps.html)
 - 10th Armored Division (T-72)
 - 11th Mechanized Division (BMP-2)
 - 12th Motorized Division (BTR-80)
@@ -16,7 +15,8 @@
 
 
 
-**2nd Corps **
+
+[Syrian Army 2nd Corps](/OPAR-Brief/INTELLIGENCE/Syrian_2nd_Corps.html) 
 - 21th Mechanized Division (BMP-1)
 - 22nd Motorized Division (BTR-80)
 - 27th Logistics Regiment
