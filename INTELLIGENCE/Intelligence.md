@@ -8,7 +8,7 @@
 
 ## Syrian Army
 - [Syrian Army](/OPAR-Brief/INTELLIGENCE/Syrian_Army.html)
-- INTREP VIS OPAR-001 - Syrian ground combat tactics   (WORK IN PROGRESS - NOT PUBLISHED YET)
+- INTREP VIS OPAR-001 - Syrian ground combat tactics 
 
 
 ## Syrian Air Force
