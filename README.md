@@ -38,6 +38,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 ## Mission Information 
 | [Presets](/MISSION INFORMATION/Presets.md)  | [SPINS](/MISSION INFORMATION/SPINS.md) | [Navigation](/MISSION INFORMATION/Navigation.md)
+| [Carrier information](/MISSION INFORMATION/Carrier.md)
 
 
 
