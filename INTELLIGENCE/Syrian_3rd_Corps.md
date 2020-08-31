@@ -80,23 +80,23 @@
 
 ## 32nd Motorized Division (BTR-80)
 **321st Motorized Brigade**
-- 3211th Mechanized BN
-- 3212th Mechanized BN
-- 3213th Mechanized BN
+- 3211th Motorized BN
+- 3212th Motorized BN
+- 3213th Motorized BN
 - 3214th Artillery BN
 - 3261st Air Defence BN  (from 326th Air Defence Regiment)
 
 **322nd Motorized Brigade**
-- 3221st Mechanized BN
-- 3222nd Mechanized BN
-- 3223rd Mechanized BN
+- 3221st Motorized BN
+- 3222nd Motorized BN
+- 3223rd Motorized BN
 - 3224th Artillery BN
 - 3262st Air Defence BN  (from 326th Air Defence Regiment)
 
 **323nd Motorized Brigade**
-- 3231st Mechanized BN
-- 3232nd Mechanized BN
-- 3233rd Mechanized BN
+- 3231st Motorized BN
+- 3232nd Motorized BN
+- 3233rd Motorized BN
 - 3234th Artillery BN
 - 3263st Air Defence BN  (from 326th Air Defence Regiment)
 
