@@ -8,13 +8,17 @@
 
 ## Syrian Army
 - [Syrian Army](/OPAR-Brief/INTELLIGENCE/Syrian_Army.html)
-- INTREP VIS OPAR-001 - Syrian ground combat tactics 
+- INTREP VIS OPAR-001 - Syrian ground combat tactics  - WIP
+- INTREP VIS OPAR-004 - Hezbolla  - WIP
 
 
 ## Syrian Air Force
 - [INTREP VIS OPAR-002 - Syrian IADS](https://raw.githubusercontent.com/132nd-vWing/VIS/master/OPAR/PUBLISHED/INTREP%20VIS%20OPAR-002%20-%20Syrian%20IADS.pdf)
 - [INTREP VIS OPAR-003 - Syrian Air Force](https://raw.githubusercontent.com/132nd-vWing/VIS/master/OPAR/PUBLISHED/INTREP%20VIS%20OPAR-003%20-%20Syrian%20Air%20Force.pdf)
 
+
+## Joint Target List
+- [OPAR Joint Target List](https://raw.githubusercontent.com/132nd-vWing/VIS/master/OPAR/PUBLISHED/OPAR_JOINT_TARGET_LIST.pdf)
 
 
 
