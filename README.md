@@ -34,9 +34,9 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 ## CJTF-82 Orders
-- [CJTF-82 Operations Order](/OPAR-Brief/INTELLIGENCE/Intelligence.html)
-- [CJTF / LCC IV Corps Concept of Operations Phase 1](/OPAR-Brief/INTELLIGENCE/Intelligence.html)
-- [CJTF / LCC III Corps Concept of Operations Phase 1](/OPAR-Brief/INTELLIGENCE/Intelligence.html)
+- [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/OPAR CJTF82 OPERATION ORDER.pdf)
+- [CJTF / LCC IV Corps Concept of Operations Phase 1](/OPAR-Brief/ORDERS/OPAR LCC IV CORPS CONCEPT OF OPERATIONS PHASE 1.pdf)
+- [CJTF / LCC III Corps Concept of Operations Phase 1](/OPAR-Brief/ORDERS/Intelligence.html)
 
 ### Joint Force Air Component Commander (JFACC)
 - [Joint Air Operations Plan (JAOP)](/OPAR-Brief/INTELLIGENCE/Intelligence.html)
