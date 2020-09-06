@@ -39,7 +39,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 ## CJTF-82 Orders
 - [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/OPAR CJTF82 OPERATION ORDER.pdf)
 - [CJTF / LCC IV Corps Concept of Operations Phase 1](/OPAR-Brief/ORDERS/OPAR LCC IV CORPS CONCEPT OF OPERATIONS PHASE 1.pdf)
-- [CJTF / LCC III Corps Concept of Operations Phase 1](/OPAR-Brief/ORDERS/TO_BE_ISSUED.html)
+- [CJTF / LCC III Corps Concept of Operations Phase 1](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
 
 ### Joint Force Air Component Commander (JFACC)
 - [Joint Air Operations Plan (JAOP)](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
@@ -53,9 +53,9 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 ## Mission Information 
-- [Presets](/MISSION INFORMATION/Presets.md) 
-- [SPINS](/MISSION INFORMATION/SPINS.md) 
-- [Navigation](/MISSION INFORMATION/Navigation.md)
+- [Presets](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html) 
+- [SPINS](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
+- [Navigation](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
 - [Carrier information](/MISSION INFORMATION/Carrier.md)
 - Air Control Plan (ACP) To be issued - WIP
 
