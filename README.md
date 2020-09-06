@@ -29,19 +29,22 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 ## Situation
-- [Situation](/OPAR-Brief/SITUATION/Situation.html)  
+- [Situation](/OPAR-Brief/SITUATION/OPAR_Road_to_war.pdf) 
+<br>
+<br>
+## Intelligence 
 - [Intelligence](/OPAR-Brief/INTELLIGENCE/Intelligence.html)
 <br>
 <br>
 ## CJTF-82 Orders
 - [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/OPAR CJTF82 OPERATION ORDER.pdf)
 - [CJTF / LCC IV Corps Concept of Operations Phase 1](/OPAR-Brief/ORDERS/OPAR LCC IV CORPS CONCEPT OF OPERATIONS PHASE 1.pdf)
-- [CJTF / LCC III Corps Concept of Operations Phase 1](/OPAR-Brief/ORDERS/Intelligence.html)
+- [CJTF / LCC III Corps Concept of Operations Phase 1](/OPAR-Brief/ORDERS/TO_BE_ISSUED.html)
 
 ### Joint Force Air Component Commander (JFACC)
-- [Joint Air Operations Plan (JAOP)](/OPAR-Brief/INTELLIGENCE/Intelligence.html)
+- [Joint Air Operations Plan (JAOP)](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
 <br>
-- [Air Operations Directive D+1](/OPAR-Brief/INTELLIGENCE/Intelligence.html)
+- [Air Operations Directive D+1](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
 
 
 
@@ -50,8 +53,14 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 ## Mission Information 
-| [Presets](/MISSION INFORMATION/Presets.md)  | [SPINS](/MISSION INFORMATION/SPINS.md) | [Navigation](/MISSION INFORMATION/Navigation.md)
-| [Carrier information](/MISSION INFORMATION/Carrier.md)
+- [Presets](/MISSION INFORMATION/Presets.md) 
+- [SPINS](/MISSION INFORMATION/SPINS.md) 
+- [Navigation](/MISSION INFORMATION/Navigation.md)
+- [Carrier information](/MISSION INFORMATION/Carrier.md)
+- Air Control Plan (ACP) To be issued - WIP
+
+
+
 
 
 
