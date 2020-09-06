@@ -18,6 +18,9 @@
 
 ## Joint Target List
 - [OPAR Joint Target List](https://raw.githubusercontent.com/132nd-vWing/VIS/master/OPAR/PUBLISHED/OPAR_JOINT_TARGET_LIST.pdf)
+- [OPAR Joint Target List Combatflite file](https://github.com/132nd-vWing/VIS/raw/master/OPAR/WORKSPACE/OPAR_VIS_JOINT_TARGET_LIST_OVERLAY.cf)
+
+
 
 
 # Event specific intelligence reports
