@@ -29,7 +29,20 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 ## Situation
-[Situation](/OPAR-Brief/SITUATION/Situation.html) | [Intelligence](/OPAR-Brief/INTELLIGENCE/Intelligence.html) |
+- [Situation](/OPAR-Brief/SITUATION/Situation.html)  
+- [Intelligence](/OPAR-Brief/INTELLIGENCE/Intelligence.html)
+<br>
+<br>
+## CJTF-82 Orders
+- [CJTF-82 Operations Order](/OPAR-Brief/INTELLIGENCE/Intelligence.html)
+- [CJTF / LCC IV Corps Concept of Operations Phase 1](/OPAR-Brief/INTELLIGENCE/Intelligence.html)
+- [CJTF / LCC III Corps Concept of Operations Phase 1](/OPAR-Brief/INTELLIGENCE/Intelligence.html)
+
+### Joint Force Air Component Commander (JFACC)
+- [Joint Air Operations Plan (JAOP)](/OPAR-Brief/INTELLIGENCE/Intelligence.html)
+<br>
+- [Air Operations Directive D+1](/OPAR-Brief/INTELLIGENCE/Intelligence.html)
+
 
 
 
