@@ -5,10 +5,15 @@
 - [INTREP VIS B-001 Generic Ground Force Structure](https://raw.githubusercontent.com/132nd-vWing/VIS/master/BASIC/PUBLISHED/INTREP%20VIS%20B-001%20Generic%20Ground%20Force%20Structure%20v1.0.pdf)
 - [INTREP VIS B-002 Generic Air Force Structure](https://raw.githubusercontent.com/132nd-vWing/VIS/master/BASIC/PUBLISHED/INTREP%20VIS%20B-002%20Generic%20Air%20Force%20Structure%20v1.0.pdf)
 
+
+## HEZBOLLAH
+- [INTREP VIS OPAR-004 - Hezbollah](https://raw.githubusercontent.com/132nd-vWing/VIS/master/OPAR/PUBLISHED/INTREP%20VIS%20OPAR-004%20-%20HEZBOLLAH%20ground%20combat%20tactics.pdf)
+
+
 ## Syrian Army
 - [Syrian Army](/OPAR-Brief/INTELLIGENCE/Syrian_Army.html)
-- INTREP VIS OPAR-001 - Syrian ground combat tactics  - WIP
-- INTREP VIS OPAR-004 - Hezbolla  - WIP
+- [INTREP VIS OPAR-001 - Syrian ground combat tactics](https://raw.githubusercontent.com/132nd-vWing/VIS/master/OPAR/PUBLISHED/INTREP%20VIS%20OPAR-001%20-%20Syrian%20ground%20combat%20tactics.pdf)
+
 
 
 ## Syrian Air Force
