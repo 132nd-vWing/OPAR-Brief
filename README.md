@@ -53,11 +53,11 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 ## Mission Information
-- [Weather forecast (current + next 3 events](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html) 
+- [Weather forecast + time (current + next 3 events](/OPAR-Brief/MISSION INFORMATION/Weather.html) 
 - [Presets](/OPAR-Brief/COMMUNICATIONS/PRESETS.html) 
 - [SPINS](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
 - [Navigation](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
-- [Carrier information](/MISSION INFORMATION/Carrier.md)
+- [Carrier information](/OPAR-Brief/MISSION INFORMATION/Carrier.md)
 - Air Control Plan (ACP) To be issued - WIP
 
 
