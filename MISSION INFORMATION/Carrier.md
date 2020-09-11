@@ -1,7 +1,10 @@
 # Carrier information
 
-
-TO BE ADDED
+## BLUE Carrier
+- CSG_72_Abraham_Lincoln
+- TACAN: 72X
+- ICLS: 12
+- ATC: 309.100
 
 
 
