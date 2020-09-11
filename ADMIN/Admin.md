@@ -31,7 +31,7 @@ Please refer to the 132nd Skin and Mod Install QuickstartGuide: <br>
 ## Governing Documents
 The following documents provides necessary information <br>
 [Air Warfare Doctrine](https://www.dropbox.com/s/wd0ppnsrje63cux/132-DP-1%20132nd%20Air%20Warfare%20Doctrine%20v1.0.pdf?dl=0) <br> 
-[132-TTP-1 CAS Manual v1.1](https://www.dropbox.com/s/ee8pwhyta66zwwr/132-TTP-1%20CAS%20Manual%20v1.1.pdf?dl=0) <br>
+[132-TTP-1 CAS Manual v1.2](https://www.dropbox.com/s/p9jirjxt00ri23k/132-TTP-1%20CAS%20Manual%20v1.2.pdf?dl=0?dl=0) <br>
 [132-CSAR-1 CSAR Manual v1.3](https://www.dropbox.com/s/l9wiix5s3yyr75t/132-TTP-11%20CSAR%20operations%201.3.pdf?raw=1) <br>
 [132-TTP-4 Brevity v1.1](https://www.dropbox.com/s/lsp4c41r0l8vjs4/132-TTP-4%20Brevity%20v1.1%20.pdf?dl=0) <br>
 [132-TTP-5-ATC and Airbase operations v1.0](https://www.dropbox.com/s/g6y24lj2ydwrbd1/132-TTP-5%20ATC%20and%20Airbase%20operations%20v2.1.pdf?dl=0) <br>
