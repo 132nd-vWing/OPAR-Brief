@@ -10,7 +10,8 @@ Server will be started:
 Z= Real world time
 G= Local In game time
 
-
+<br>
+<br>
 
 ### Weatherforecast
 - D+1: Calm winds from the WEST, clear skies 
@@ -18,7 +19,10 @@ G= Local In game time
 
 
 
-
+<br>
+<br>
+<br>
+<br>
 
 ## Weatherforecast next events:
 - D+2: Clear skies

@@ -53,7 +53,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 ## Mission Information
-- [Weather forecast + time (current + next 3 events](/OPAR-Brief/MISSION INFORMATION/Weather.html) 
+- [Weather forecast + time (current + next 3 events)](/OPAR-Brief/MISSION INFORMATION/Weather.html) 
 - [Presets](/OPAR-Brief/COMMUNICATIONS/PRESETS.html) 
 - [SPINS](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
 - [Navigation](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
