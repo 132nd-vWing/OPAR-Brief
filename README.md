@@ -24,9 +24,10 @@
 - [CJTF / LCC III Corps Concept of Operations Phase 1](/OPAR-Brief/ORDERS/OPAR LCC III CORPS CONCEPT OF OPERATIONS PHASE 1.pdf)
 
 ### Joint Force Air Component Commander (JFACC)
-- [Joint Air Operations Plan (JAOP)](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
+- [Joint Air Operations Plan (JAOP)](/OPAR-Brief/ORDERS/OPAR_JFACC_JOINT_AIR_OPERATIONS_PLAN_D1.pdf)
 <br>
-- [Air Operations Directive D+1](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
+- [Air Operations Directive D+1](/OPAR-Brief/ORDERS/D1/OPAR_JFACC_AOD_D1.pdf)
+- [Joint Prioritized Target List D+1](/OPAR-Brief/ORDERS/D1/OPAR_JFACC_AOD_D1.pdf)
 
 
 
