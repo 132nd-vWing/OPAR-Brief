@@ -52,8 +52,9 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 <br>
-## Mission Information 
-- [Presets](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html) 
+## Mission Information
+- [Weather forecast (current + next 3 events](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html) 
+- [Presets](/OPAR-Brief/COMMUNICATIONS/PRESETS.html) 
 - [SPINS](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
 - [Navigation](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
 - [Carrier information](/MISSION INFORMATION/Carrier.md)
