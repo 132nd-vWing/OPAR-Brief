@@ -13,7 +13,7 @@ G= Local In game time
 <br>
 
 ### Weather forecast
-- D+1: Calm winds from the WEST, clear skies 
+- D+1: Calm winds from the EAST, clear skies 
 
 
 <br>

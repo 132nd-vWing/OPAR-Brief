@@ -40,7 +40,7 @@
 - [SPINS](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
 - [Airfield information](/OPAR-Brief/MISSION INFORMATION/Airfields.html)
 - [Carrier information](/OPAR-Brief/MISSION INFORMATION/Carrier.html)
-- Air Control Plan (ACP) To be issued - WIP
+- [Airspace Control Plan (ACP) ](/OPAR-Brief/MISSION INFORMATION/AirspaceControlPlan.cf)
 
 
 
