@@ -38,7 +38,7 @@
 ## Mission Information
 - [Weather forecast + time (current + next 3 events)](/OPAR-Brief/MISSION INFORMATION/Weather.html) 
 - [Presets](/OPAR-Brief/COMMUNICATIONS/PRESETS.html) 
-- [SPINS](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
+- [SPINS](/OPAR-Brief/MISSION INFORMATION/OPAR JFACC STANDING SPINS.pdf)
 - [Airfield information](/OPAR-Brief/MISSION INFORMATION/Airfields.html)
 - [Carrier information](/OPAR-Brief/MISSION INFORMATION/Carrier.html)
 - [Airspace Control Plan (ACP) ](/OPAR-Brief/MISSION INFORMATION/AirspaceControlPlan.cf)
