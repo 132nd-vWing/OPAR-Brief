@@ -11,26 +11,25 @@ Z= Real world time
 G= Local In game time
 
 <br>
-<br>
 
-### Weatherforecast
+### Weather forecast
 - D+1: Calm winds from the WEST, clear skies 
 
 
-
-
-<br>
 <br>
 <br>
 <br>
 
-## Weatherforecast next events:
+
+## Weather forecast next events:
 - D+2: Clear skies
 - D+3: Overcast
 - D+4: Rain
 
 
-
+<br>
+<br>
+<br>
 
 
 

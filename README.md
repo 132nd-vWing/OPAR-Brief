@@ -38,7 +38,7 @@
 - [Weather forecast + time (current + next 3 events)](/OPAR-Brief/MISSION INFORMATION/Weather.html) 
 - [Presets](/OPAR-Brief/COMMUNICATIONS/PRESETS.html) 
 - [SPINS](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
-- [Navigation](/OPAR-Brief/INTELLIGENCE/TO_BE_ISSUED.html)
+- [Airfield information](/OPAR-Brief/MISSION INFORMATION/Airfields.html)
 - [Carrier information](/OPAR-Brief/MISSION INFORMATION/Carrier.md)
 - Air Control Plan (ACP) To be issued - WIP
 
