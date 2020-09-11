@@ -3,6 +3,7 @@
 - [A-10 Presets](/OPAR-Brief/COMMUNICATIONS/A10 Presets.pdf)
 - [F-16 Presets](/OPAR-Brief/COMMUNICATIONS/F16 Presets.pdf)
 - [KA-50 Presets](/OPAR-Brief/COMMUNICATIONS/KA50 Presets.pdf)
+- [MI-8 Presets](/OPAR-Brief/COMMUNICATIONS/A10 Presets.pdf)
 
 
 ## OPAR communication masterfile
