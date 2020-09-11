@@ -35,7 +35,8 @@
 
 
 ## VIS INTSUM
-- To Be Issued (after first event)
+- [VIS INTSUM D+1](/OPAR-Brief/INTELLIGENCE/INTSUM/D1/VIS INTSUM D1 Ground.pdf) 
+- [VIS INTSUM D+1 Combatflite overlay](/OPAR-Brief/INTELLIGENCE/INTSUM/D1/OPAR_D1 Ground.cf) 
 
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/OPAR-Brief/)
