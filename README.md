@@ -52,12 +52,12 @@
 <br>
 <br>
 ## AIR TASKING ORDER
+Is published on the 132nd website
 
-
 <br>
 <br>
 <br>
-**NOTE 2** You will need to manually refresh webpages to get changes as the pages are updated. Until we resolve this issue, we recommend everyone to refresh the page when you enter it to make sure you have the latest information availeble.
+**NOTE:** You will need to manually refresh webpages to get changes as the pages are updated. Until we resolve this issue, we recommend everyone to refresh the page when you enter it to make sure you have the latest information availeble.
 <br>
 <br>
 <br>
