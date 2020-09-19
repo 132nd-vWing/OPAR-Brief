@@ -37,6 +37,7 @@
 <br>
 ## Mission Information
 - [Weather forecast + time (current + next 3 events)](/OPAR-Brief/MISSION INFORMATION/Weather.html) 
+- [Maintenance and logisitcal status](/OPAR-Brief/MISSION INFORMATION/Maintenance.html) 
 - [Presets](/OPAR-Brief/COMMUNICATIONS/PRESETS.html) 
 - [SPINS](/OPAR-Brief/MISSION INFORMATION/OPAR JFACC STANDING SPINS.pdf)
 - [Airfield information](/OPAR-Brief/MISSION INFORMATION/Airfields.html)
