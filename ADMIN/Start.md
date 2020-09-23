@@ -40,7 +40,7 @@ This step is something you should review before every event where you attend. Be
 INTSUMs contain relevant intelligence from the last event plus assessment for future events. (NOTE: VIS only get what pilots are reporting, so make sure to support VIS
 by providing a accurate report after mission completion).
 In addition to the VIS INTSUMs there is several other Intelligence Reports (INTREP) that cover certain topics. 
-- [Intelligence](https://132nd-vwing.github.io/OPAR-Brief/MISSION%20INFORMATION/OPAR%20JFACC%20STANDING%20SPINS.pdf)
+- [Intelligence](https://132nd-vwing.github.io/OPAR-Brief/INTELLIGENCE/Intelligence.html)
 
 
 
