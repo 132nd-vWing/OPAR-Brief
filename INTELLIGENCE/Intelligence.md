@@ -32,11 +32,17 @@
 
 ## Virtual Intelligence Directorate (VID) Intelligence reports
 - [VID INTREP D+0](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_D0.pdf) 
+- [VID INTREP D+1](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_D1.pdf) 
 
 
 ## VIS INTSUM
-- [VIS INTSUM D+1](/OPAR-Brief/INTELLIGENCE/INTSUM/D1/VIS INTSUM D1 Ground.pdf) 
-- [VIS INTSUM D+1 Combatflite overlay](/OPAR-Brief/INTELLIGENCE/INTSUM/D1/OPAR_D1 Ground.cf) 
-
+- [VIS INTSUM D+0](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS INTSUM D0 Ground.pdf) 
+- [VIS INTSUM D+0 Combatflite overlay](/OPAR-Brief/INTELLIGENCE/INTSUM/OPAR_D0 Ground.cf) 
+<br>
+- [VIS INTSUM D+1 Ground](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D1_GROUND.pdf) 
+- [VIS INTSUM D+1 Ground Combatflite](/OPAR-Brief/INTELLIGENCE/INTSUM/OPAR_D1_Ground.cf) 
+- [VIS INTSUM D+1 Air](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D1_AIR.pdf) 
+- [VIS INTSUM D+1 Air Combatflite](/OPAR-Brief/INTELLIGENCE/INTSUM/OPAR_D1_AIR.cf) 
+- [VIS INTSUM D+1 IADS Combatflite](/OPAR-Brief/INTELLIGENCE/INTSUM/OPAR_D1_IADS.cf) 
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/OPAR-Brief/)
