@@ -1,11 +1,9 @@
 # OPERATION ACTIVE RESOLVE (OPAR)
 <br>
-<br>
-<br>
+
 [NEW TO OPAR? START HERE](/OPAR-Brief/ADMIN/Start.html)  
 <br>
-<br>
-<br>
+
 
 
 
