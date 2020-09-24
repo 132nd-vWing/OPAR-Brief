@@ -3,25 +3,21 @@
 <br>
 <br>
 [NEW TO OPAR? START HERE](/OPAR-Brief/ADMIN/Start.html)  
-
-
-## Admin
-[Admin info](/OPAR-Brief/ADMIN/Admin.html) | [Recordings](/OPAR-Brief/ADMIN/Recordings.html) | 
-
-
-
 <br>
 <br>
 <br>
-## Situation
+
+
+
+### Situation
 - [Situation](/OPAR-Brief/SITUATION/OPAR_Road_to_war.pdf) 
 <br>
 <br>
-## Intelligence 
+### Intelligence 
 - [Intelligence](/OPAR-Brief/INTELLIGENCE/Intelligence.html)
 <br>
 <br>
-## CJTF-82 Orders
+### CJTF-82 Orders
 - [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/OPAR CJTF82 OPERATION ORDER.pdf)
 - [CJTF / LCC IV Corps Concept of Operations Phase 1](/OPAR-Brief/ORDERS/OPAR LCC IV CORPS CONCEPT OF OPERATIONS PHASE 1.pdf)
 - [CJTF / LCC III Corps Concept of Operations Phase 1](/OPAR-Brief/ORDERS/OPAR LCC III CORPS CONCEPT OF OPERATIONS PHASE 1.pdf)
@@ -47,8 +43,11 @@
 - [Carrier information](/OPAR-Brief/MISSION INFORMATION/Carrier.html)
 - [Airspace Control Plan (ACP) ](/OPAR-Brief/MISSION INFORMATION/AirspaceControlPlan.cf)
 
-
-
+<br>
+<br>
+<br>
+## Admin
+[Admin info](/OPAR-Brief/ADMIN/Admin.html) | [Recordings](/OPAR-Brief/ADMIN/Recordings.html) 
 
 
 
