@@ -23,6 +23,7 @@
 ### Joint Force Air Component Commander (JFACC)
 - [Joint Air Operations Plan (JAOP)](/OPAR-Brief/ORDERS/OPAR_JFACC_JOINT_AIR_OPERATIONS_PLAN_D1.pdf)
 <br>
+<br>
 - [Air Operations Directive D+2](/OPAR-Brief/ORDERS/JFACC/OPAR_JFACC_AOD_D2.pdf)
 - [Joint Prioritized Target List D+2](/OPAR-Brief/ORDERS/JFACC/OPAR_JOINT_TARGET_LIST_D2.pdf)
 
