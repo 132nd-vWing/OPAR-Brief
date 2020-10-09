@@ -25,7 +25,7 @@
 <br>
 <br>
 - [Air Operations Directive D+3](/OPAR-Brief/ORDERS/JFACC/OPAR_JFACC_AOD_D3.pdf)
-- [Joint Prioritized Target List D+3](/OPAR-Brief/ORDERS/JFACC/OPAR_JOINT_TARGET_LIST_D3.pdf)
+- [Joint Prioritized Target List D+3](/OPAR-Brief/ORDERS/JFACC/OPAR_JOINT_TARGET_LIST_D3.pdf) 
 
 
 
