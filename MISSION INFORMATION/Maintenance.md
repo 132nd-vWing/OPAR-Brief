@@ -1,11 +1,11 @@
 # Maintenance issues
 
 ## Upcoming event: 
-D+2
+D+3
 
 ### Current status
 - AWACS tailnumber 501: Undergoing maintenance (not availeble)
-- AWACS tailnumber 502: Have problems with datalink, else operational
+- AWACS tailnumber 502: No issues, operational
 - AWACS tailnumber 503: No issues, operational
 
 <br>

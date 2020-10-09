@@ -1,4 +1,8 @@
 # Introduction 
+<br>
+#### Version 1.1: Updated 9th October
+<br>
+
 If this is your first mission in OPAR you should start reading in the order listed below.
 Operation Active Resolve is a comprehensive campaign that will span over 30+ events. 
 Because of this, there is a large background and supporting documents to setup the campaign.
@@ -75,18 +79,22 @@ Execute your mission
 <br>
 
 
-#### Step 9: Reporting
-After mission completion you should prepare a BDA / intelligence report / mission report. This report are to be reported on the correct channel on Discord.
+#### Step 9: After Action Review (AAR)
+The last step after a mission is to fill out a AAR on the 132nd website. The focus for the AAR is on giving everyone a common understanding on what happened in the mission, 
+share information that is of intelligence value and share valuable learning points that can improve tactics and execution in later missions.
+<br>
+The after action report contains the following important information, and is filled out on the 132nd website:
+-	Event sequence:What was done in the mission. Where was it flown.
+-	Lessons Learned: What experiences was done in the mission. What worked, what did not work. Suggestions of tactics that may work, or other ideas on how to solve t he mission or handling situations.
+-	Battle Damage Assessment (BDA): If there are delivered any ordnance (both A-A and A-G) fill out the BDA for the engagement. If a pilot do not have a confirmed BDA it should be noted as not confirmed, but a best assessment should be provided.
+-	Intel: Any information or observation that can be of intelligence value for 
+-	Attachements: Any pictures (TGP / HUD / out of cockpit) are to be posted in the #bda-reports channel on the 132nd Discord server or as a link in the AAR.
+<br>
 This is the information that VIS uses to produce intelligence for upcoming missions, and JFACC uses as support to make decisions and provide direction and guidance.
 All locations should be given in the following format DD MM.MMM  DDD MM.MMM. This makes the job for VIS much easier, as they can just paste the coordinates into CombatFlite.
 If you only have bulls information, we kindly request you to use 1-2 minutes to convert it into correct coordinates before posting your report.
 <br>
-<br>
-
-
-#### Step 10: After Action Review (AAR)
-The last step after a mission is to fill out a AAR on the 132nd website. The focus for the AAR is on giving everyone a common understanding on what happened in the mission
-and share valuable learning points and what we can improve in later missions.
+For additional details, see SPINS section 3.4 Reporting
 <br>
 <br>
 
