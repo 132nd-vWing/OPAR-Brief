@@ -15,6 +15,15 @@ Recordings from OPAR mission will be posted below
 <br>
 <br>
 #### Mission D+2
+- [BLUE TACVIEW D+1](https://drive.google.com/file/d/1XoRZ4vWS493dVK_6XWZwsPCBZyWPjwNe/view?usp=sharing)
+<br>
+<br>
+- [CAP full mission / SPECTRE 6](https://www.twitch.tv/videos/753854410)
+- [Intercept Russian aircraft / SPECTRE 6](https://www.twitch.tv/videos/740128475)
+- [1st Virtual Fighter Wing video](https://www.youtube.com/watch?v=cYmnbOMdYvU)
+- [AR NORTH/ RW perspective](https://www.twitch.tv/videos/753854290)
+- [SEAD - SOUTH/ F/A-18C perspective](https://www.youtube.com/watch?v=imAUHWEs7y4)
+
 
 <br>
 <br>
