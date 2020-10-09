@@ -6,6 +6,7 @@
 - [F-14 Presets](/OPAR-Brief/COMMUNICATIONS/F14 Presets.pdf)
 - [KA-50 Presets](/OPAR-Brief/COMMUNICATIONS/KA50 Presets.pdf)
 - [MI-8 Presets](/OPAR-Brief/COMMUNICATIONS/MI8 Presets.pdf)
+- [AJS 37 Presets](/OPAR-Brief/COMMUNICATIONS/AJS 37 Presets.pdf)
 
 
 ## OPAR communication masterfile
