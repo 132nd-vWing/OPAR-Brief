@@ -25,6 +25,14 @@ Recordings from OPAR mission will be posted below
 - [SEAD - SOUTH/ F/A-18C perspective](https://www.youtube.com/watch?v=imAUHWEs7y4)
 
 
+#### Mission D+3
+- [BLUE TACVIEW D+3](https://drive.google.com/file/d/1VIAzgw8ViVp8YpEciMwrYuydPmYL8CBr/view?usp=sharing)
+<br>
+<br>
+- [AR North / AXE 11](https://www.youtube.com/watch?v=4WETwXGMEbs&feature=youtu.be)
+- [AR North / DRAGON 6-1 ](https://www.twitch.tv/videos/767496039)
+- [AWACS Senior Director - LotATC and Comms](https://www.youtube.com/watch?v=WTaMVYT3G_4&feature=youtu.be)
+- [DEAD/SEAD / JEDI 8-1](https://www.youtube.com/watch?v=v1SJ495J6NQ&feature=youtu.be)
 <br>
 <br>
 <br>
