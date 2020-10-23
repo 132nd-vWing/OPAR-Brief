@@ -42,7 +42,7 @@
 - [Carrier information](/OPAR-Brief/MISSION INFORMATION/Carrier.html)
 - [Airspace Control Plan (ACP) ](/OPAR-Brief/MISSION INFORMATION/AirspaceControlPlan.cf)
 <br>
-- [CJTF 82 - Directions&Guidance for D+4](/OPAR-Brief/MISSION INFORMATION/CJTF_D_H/OPAR CJTF DIRECTION AND GUIDANCE D4.pdf)
+- [CJTF 82 - Directions&Guidance for D+4](/OPAR-Brief/MISSION INFORMATION/CJTF_D_G/OPAR CJTF DIRECTION AND GUIDANCE D4.pdf)
 - [CJTF 82 - Update on friendly situation D+4 combatflite](/OPAR-Brief/MISSION INFORMATION/Friendly_update.cf)
 
 <br>
