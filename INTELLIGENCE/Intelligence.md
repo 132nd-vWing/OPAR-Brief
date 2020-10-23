@@ -44,7 +44,6 @@
 <br>
 
 ### VIS INTSUM
-<br>
 ##### D+3 (Intelligence from missions flown at D+2)
 - [VIS INTSUM D+3 Ground](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D3_Ground.pdf) 
 - [VIS INTSUM D+3 Air](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D3_AIR.pdf) 
@@ -54,7 +53,6 @@
 <br>
 <br>
 ### VIS INTREP
-<br>
 - [VIS INTREP OPARTGT043 - Bassel Al Assad Airfield](/OPAR-Brief/INTELLIGENCE/INTREP/VIS-INTREP-OPARTGT043-001.pdf) 
 
 <br>
