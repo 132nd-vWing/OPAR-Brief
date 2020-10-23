@@ -53,6 +53,12 @@
 
 <br>
 <br>
+### VIS INTREP
+<br>
+- [VIS INTREP OPARTGT043 - Bassel Al Assad Airfield](/OPAR-Brief/INTELLIGENCE/INTREP/VIS-INTREP-OPARTGT043-001.pdf) 
+
+<br>
+<br>
 ### Intelligence Archive (Intelligence from previous events)
 - [Intelligence Archive](/OPAR-Brief/INTELLIGENCE/INTEL_Archive.html)
 <br>
