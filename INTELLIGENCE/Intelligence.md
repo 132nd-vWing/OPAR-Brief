@@ -44,7 +44,7 @@
 <br>
 
 ### VIS INTSUM
-##### D+3 (Intelligence from missions flown at D+2)
+##### D+3 (Intelligence from missions flown at D+3)
 - [VIS INTSUM D+3 Ground](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D3_Ground.pdf) 
 - [VIS INTSUM D+3 Air](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D3_AIR.pdf) 
 - [VIS INTSUM D+3 IADS](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D3_IADS.pdf)
