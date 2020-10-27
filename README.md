@@ -19,7 +19,15 @@
 - [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/OPAR CJTF82 OPERATION ORDER.pdf)
 - [CJTF / LCC IV Corps Concept of Operations Phase 1](/OPAR-Brief/ORDERS/OPAR LCC IV CORPS CONCEPT OF OPERATIONS PHASE 1.pdf)
 - [CJTF / LCC III Corps Concept of Operations Phase 1](/OPAR-Brief/ORDERS/OPAR LCC III CORPS CONCEPT OF OPERATIONS PHASE 1.pdf)
+<br>
+<br>
+- [CJTF 82 - Directions&Guidance for D+5](/OPAR-Brief/MISSION INFORMATION/CJTF_D_G/OPAR CJTF DIRECTION AND GUIDANCE D5.pdf)
+- [CJTF 82 - Update on friendly situation D+5 combatflite](/OPAR-Brief/MISSION INFORMATION/Friendly_update.cf)
 
+
+<br>
+<br>
+<br>
 ### Joint Force Air Component Commander (JFACC)
 - [Joint Air Operations Plan (JAOP)](/OPAR-Brief/ORDERS/OPAR_JFACC_JOINT_AIR_OPERATIONS_PLAN_D1.pdf)
 <br>
@@ -41,9 +49,7 @@
 - [Airfield information](/OPAR-Brief/MISSION INFORMATION/Airfields.html)
 - [Carrier information](/OPAR-Brief/MISSION INFORMATION/Carrier.html)
 - [Airspace Control Plan (ACP) ](/OPAR-Brief/MISSION INFORMATION/AirspaceControlPlan.cf)
-<br>
-- [CJTF 82 - Directions&Guidance for D+4](/OPAR-Brief/MISSION INFORMATION/CJTF_D_G/OPAR CJTF DIRECTION AND GUIDANCE D4.pdf)
-- [CJTF 82 - Update on friendly situation D+4 combatflite](/OPAR-Brief/MISSION INFORMATION/Friendly_update.cf)
+
 
 <br>
 <br>

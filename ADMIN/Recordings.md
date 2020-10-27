@@ -23,8 +23,9 @@ Recordings from OPAR mission will be posted below
 - [1st Virtual Fighter Wing video](https://www.youtube.com/watch?v=cYmnbOMdYvU)
 - [AR NORTH/ RW perspective](https://www.twitch.tv/videos/753854290)
 - [SEAD - SOUTH/ F/A-18C perspective](https://www.youtube.com/watch?v=imAUHWEs7y4)
-
-
+<br>
+<br>
+<br>
 #### Mission D+3
 - [BLUE TACVIEW D+3](https://drive.google.com/file/d/1VIAzgw8ViVp8YpEciMwrYuydPmYL8CBr/view?usp=sharing)
 <br>
@@ -33,6 +34,11 @@ Recordings from OPAR mission will be posted below
 - [AR North / DRAGON 6-1 ](https://www.twitch.tv/videos/767496039)
 - [AWACS Senior Director - LotATC and Comms](https://www.youtube.com/watch?v=WTaMVYT3G_4&feature=youtu.be)
 - [DEAD/SEAD / JEDI 8-1](https://www.youtube.com/watch?v=v1SJ495J6NQ&feature=youtu.be)
+<br>
+<br>
+<br>
+#### Mission D+4
+- [BLUE TACVIEW D+4](https://drive.google.com/file/d/1zrdhidfVUZrDhXWLT2lzfioZFrIT7YZC/view?usp=sharing)
 <br>
 <br>
 <br>
