@@ -41,8 +41,12 @@ Recordings from OPAR mission will be posted below
 - [BLUE TACVIEW D+4](https://drive.google.com/file/d/1zrdhidfVUZrDhXWLT2lzfioZFrIT7YZC/view?usp=sharing)
 <br>
 <br>
+- [CAP/ DODGE 6-1](https://www.youtube.com/watch?v=2uAl8g1ABR4)
+- [DEAD/SEAD/ PANTHER 9-3](https://www.youtube.com/watch?v=UubVlXFZkoQ&feature=youtu.be)
 <br>
 <br>
 <br>
+<br>
+
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/OPAR-Brief/)
