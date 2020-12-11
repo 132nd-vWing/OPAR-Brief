@@ -5,6 +5,7 @@
 - [VID INTREP D+1](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_D1.pdf)
 - [VID INTREP D+2](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_D2.pdf)  
 - [VID INTREP D+3](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_D3.pdf) 
+- [VID INTREP D+4](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_D4.pdf) 
 
 <br>
 <br>
@@ -16,6 +17,7 @@
 - [VIS INTSUM D+0 Combatflite overlay](/OPAR-Brief/INTELLIGENCE/INTSUM/OPAR_D0 Ground.cf) 
 <br>
 <br>
+
 ##### D+2 (Intelligence from missions flown at D+1)
 - [VIS INTSUM D+1 Ground](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D1_GROUND.pdf) 
 - [VIS INTSUM D+1 Ground Combatflite](/OPAR-Brief/INTELLIGENCE/INTSUM/OPAR_D1_Ground.cf) 
@@ -33,6 +35,7 @@
 - [VIS INTSUM D+2 IADS Combatflite](/OPAR-Brief/INTELLIGENCE/INTSUM/OPAR_D2_IADS.cf) 
 <br>
 <br>
+
 ##### D+4 (Intelligence from missions flown at D+3)
 - [VIS INTSUM D+3 Ground](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D3_Ground.pdf) 
 - [VIS INTSUM D+3 Air](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D3_AIR.pdf) 
@@ -40,5 +43,14 @@
 - [VIS INTSUM D+3 Reported information combatflite](/OPAR-Brief/INTELLIGENCE/INTSUM/OPAR_D3 Reported information D+3.cf) 
 <br>
 <br>
+
+##### D+5 (Intelligence from missions flown at D+4)
+- [VIS INTSUM D+4 Ground](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D4_Ground.pdf) 
+- [VIS INTSUM D+4 Air](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D4_AIR.pdf) 
+- [VIS INTSUM D+4 IADS](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D4_IADS.pdf)
+- [VIS INTSUM D+4 Reported information combatflite](/OPAR-Brief/INTELLIGENCE/INTSUM/OPAR_D4 Reported information D+4.cf) 
+<br>
+<br>
+
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/OPAR-Brief/)

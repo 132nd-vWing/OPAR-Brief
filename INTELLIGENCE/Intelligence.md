@@ -41,15 +41,14 @@
 - [VID INTREP D+2](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_D2.pdf) 
 - [VID INTREP D+3](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_D3.pdf) 
 - [VID INTREP D+4](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_D4.pdf) 
+- [VID INTREP D+5](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_D5.pdf) 
 <br>
 <br>
 
 ### VIS INTSUM
-##### D+5 (Intelligence from missions flown at D+4)
-- [VIS INTSUM D+4 Ground](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D4_Ground.pdf) 
-- [VIS INTSUM D+4 Air](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D4_AIR.pdf) 
-- [VIS INTSUM D+4 IADS](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D4_IADS.pdf)
-- [VIS INTSUM D+4 Reported information combatflite](/OPAR-Brief/INTELLIGENCE/INTSUM/OPAR_D4 Reported information D+4.cf) 
+##### D+6 (Intelligence from missions flown at D+5)
+- [VIS INTSUM D+5 Ground](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D5_Ground.pdf) 
+- [VIS INTSUM D+5 Reported information combatflite](/OPAR-Brief/INTELLIGENCE/INTSUM/OPAR_D5 Reported information D+5.cf) 
 
 <br>
 <br>
