@@ -21,8 +21,8 @@
 - [CJTF / LCC III Corps Concept of Operations Phase 1](/OPAR-Brief/ORDERS/OPAR LCC III CORPS CONCEPT OF OPERATIONS PHASE 1.pdf)
 <br>
 <br>
-- [CJTF 82 - Directions&Guidance for D+5](/OPAR-Brief/MISSION INFORMATION/CJTF_D_G/OPAR CJTF DIRECTION AND GUIDANCE D5.pdf)
-- [CJTF 82 - Update on friendly situation D+5 combatflite](/OPAR-Brief/MISSION INFORMATION/Friendly_update.cf)
+- [CJTF 82 - Directions&Guidance for D+5 (last valid CJTF D&G)](/OPAR-Brief/MISSION INFORMATION/CJTF_D_G/OPAR CJTF DIRECTION AND GUIDANCE D5.pdf)
+- [CJTF 82 - Update on friendly situation D+5 combatflite (last valid CJTF D&G](/OPAR-Brief/MISSION INFORMATION/Friendly_update.cf)
 
 
 <br>
@@ -32,8 +32,8 @@
 - [Joint Air Operations Plan (JAOP)](/OPAR-Brief/ORDERS/OPAR_JFACC_JOINT_AIR_OPERATIONS_PLAN_D1.pdf)
 <br>
 <br>
-- [Air Operations Directive D+5](/OPAR-Brief/ORDERS/JFACC/OPAR_JFACC_AOD_D5.pdf)
-- [Joint Prioritized Target List D+5](/OPAR-Brief/ORDERS/JFACC/OPAR_JOINT_TARGET_LIST_D5.pdf) 
+- [Air Operations Directive D+5 (last valid AOD)](/OPAR-Brief/ORDERS/JFACC/OPAR_JFACC_AOD_D5.pdf)
+- [Joint Prioritized Target List D+5 (last valid JPTL)](/OPAR-Brief/ORDERS/JFACC/OPAR_JOINT_TARGET_LIST_D5.pdf) 
 
 
 
