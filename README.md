@@ -21,8 +21,8 @@
 - [CJTF / LCC III Corps Concept of Operations Phase 1](/OPAR-Brief/ORDERS/OPAR LCC III CORPS CONCEPT OF OPERATIONS PHASE 1.pdf)
 <br>
 <br>
-- [CJTF 82 - Directions&Guidance for D+5 (last valid CJTF D&G)](/OPAR-Brief/MISSION INFORMATION/CJTF_D_G/OPAR CJTF DIRECTION AND GUIDANCE D5.pdf)
-- [CJTF 82 - Update on friendly situation D+5 combatflite (last valid CJTF D&G](/OPAR-Brief/MISSION INFORMATION/Friendly_update.cf)
+- [CJTF 82 - Directions&Guidance for D+8 (last valid CJTF D&G)](/OPAR-Brief/MISSION INFORMATION/CJTF_D_G/OPAR CJTF DIRECTION AND GUIDANCE D8.pdf)
+- [CJTF 82 - Update on friendly situation D+8 combatflite (last valid CJTF D&G](/OPAR-Brief/MISSION INFORMATION/Friendly_update.cf)
 
 
 <br>

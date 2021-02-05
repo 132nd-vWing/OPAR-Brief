@@ -52,5 +52,8 @@
 <br>
 <br>
 
+##### D+7(Intelligence from missions flown at D+6)
+- [VIS INTSUM D+6 Ground](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D6_Ground.pdf) 
+
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/OPAR-Brief/)
