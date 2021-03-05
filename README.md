@@ -22,7 +22,7 @@
 <br>
 <br>
 - [CJTF 82 - Directions&Guidance for D+9](/OPAR-Brief/MISSION INFORMATION/CJTF_D_G/OPAR CJTF DIRECTION AND GUIDANCE D9.pdf)
-- [CJTF 82 - Update on friendly situation D+9 combatflite (/OPAR-Brief/MISSION INFORMATION/Friendly_update.cf)
+- [CJTF 82 - Update on friendly situation D+9 combatflite] (/OPAR-Brief/MISSION INFORMATION/Friendly_update.cf)
 
 
 <br>
