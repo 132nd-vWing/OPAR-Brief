@@ -6,6 +6,9 @@
 - [VID INTREP D+2](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_D2.pdf)  
 - [VID INTREP D+3](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_D3.pdf) 
 - [VID INTREP D+4](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_D4.pdf) 
+- [VID INTREP D+5](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_D5.pdf) 
+- [VID INTREP D6+7](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_D7.pdf) 
+- [VID INTREP D8](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_D8.pdf) 
 
 <br>
 <br>
@@ -54,6 +57,15 @@
 
 ##### D+7(Intelligence from missions flown at D+6)
 - [VIS INTSUM D+6 Ground](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D6_Ground.pdf) 
+<br>
+<br>
+
+##### D+8(Intelligence from missions flown at D+7)
+- [VIS INTSUM D+7 Ground](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D7_Ground.pdf) 
+- [VIS INTSUM D+7 IADS](/OPAR-Brief/INTELLIGENCE/INTSUM/VIS_INTSUM_D7_IADS.pdf) 
+- [VIS INTSUM D+7 IADS Combatflite](/OPAR-Brief/INTELLIGENCE/INTSUM/OPAR_D7_IADS.cf) 
+<br>
+<br>
 
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/OPAR-Brief/)
