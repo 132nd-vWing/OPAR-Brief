@@ -17,14 +17,15 @@
 <br>
 ### CJTF-82 Orders
 - [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/OPAR CJTF82 OPERATION ORDER.pdf)
-- [CJTF / LCC IV Corps Concept of Operations Phase 1](/OPAR-Brief/ORDERS/OPAR LCC IV CORPS CONCEPT OF OPERATIONS PHASE 1.pdf)
-- [CJTF / LCC III Corps Concept of Operations Phase 1](/OPAR-Brief/ORDERS/OPAR LCC III CORPS CONCEPT OF OPERATIONS PHASE 1.pdf)
 <br>
 <br>
-- [CJTF 82 - Directions&Guidance for D+9](/OPAR-Brief/MISSION INFORMATION/CJTF_D_G/OPAR CJTF DIRECTION AND GUIDANCE D9.pdf)
-- [CJTF 82 - Update on friendly situation D+9 combatflite](/OPAR-Brief/MISSION INFORMATION/Friendly_update.cf)
+- [CJTF 82 - Directions&Guidance for D+10](/OPAR-Brief/MISSION INFORMATION/CJTF_D_G/OPAR CJTF DIRECTION AND GUIDANCE D10.pdf)
+- [CJTF 82 - Update on friendly situation D+10 combatflite](/OPAR-Brief/MISSION INFORMATION/Friendly_update.cf)
+<br>
+<br>
 
-
+### CJTF-82 orders archive (orders from previous events)
+- [Orders Archive](/OPAR-Brief/ORDERS/ARCHIVE/ORDER_Archive.html)
 <br>
 <br>
 <br>
