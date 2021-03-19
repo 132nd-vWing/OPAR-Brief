@@ -34,7 +34,7 @@
 <br>
 <br>
 - [Air Operations Directive D+10](/OPAR-Brief/ORDERS/JFACC/OPAR_JFACC_AOD_D10.pdf)
-- [Joint Prioritized Target List D+10 ](/OPAR-Brief/ORDERS/JFACC/OPAR_JOINT_TARGET_LIST_D10.pdf) 
+- [Joint Prioritized Target List D+10](/OPAR-Brief/ORDERS/JFACC/OPAR_JOINT_TARGET_LIST_D10.pdf) 
 
 
 
