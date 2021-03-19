@@ -33,8 +33,8 @@
 - [Joint Air Operations Plan (JAOP)](/OPAR-Brief/ORDERS/OPAR_JFACC_JOINT_AIR_OPERATIONS_PLAN_D1.pdf)
 <br>
 <br>
-- [Air Operations Directive D+5 (last valid AOD)](/OPAR-Brief/ORDERS/JFACC/OPAR_JFACC_AOD_D5.pdf)
-- [Joint Prioritized Target List D+5 (last valid JPTL)](/OPAR-Brief/ORDERS/JFACC/OPAR_JOINT_TARGET_LIST_D5.pdf) 
+- [Air Operations Directive D+10](/OPAR-Brief/ORDERS/JFACC/OPAR_JFACC_AOD_D10.pdf)
+- [Joint Prioritized Target List D+10 ](/OPAR-Brief/ORDERS/JFACC/OPAR_JOINT_TARGET_LIST_D10.pdf) 
 
 
 
