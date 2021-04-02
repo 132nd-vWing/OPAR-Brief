@@ -1,12 +1,12 @@
 # Weather and time
 
 ## Upcoming event
-D+9
+D+11
 
 ### Time in mission
 Server will be started:
-- 1800Z. Time in game is then 1500G
-- Event start at 1900Z. Time in game is then 1600G.
+- 1700Z. Time in game is then 0000G
+- Event start at 1800Z. Time in game is then 0100G.
 
 Z= Real world time
 G= Local In game time
@@ -14,7 +14,7 @@ G= Local In game time
 <br>
 
 ### Weather forecast
-- D+10: Calm winds from NORTH, clear skies
+- D+11: Calm winds from NORTH, clear skies
 
 
 <br>
@@ -23,9 +23,9 @@ G= Local In game time
 
 
 ## Weather forecast next events:
-- D+11: Night, clear skies
 - D+12: Overcast
 - D+13: Clear skies
+- D+14: Scattered clouds
 
 <br>
 <br>

@@ -19,8 +19,8 @@
 - [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/OPAR CJTF82 OPERATION ORDER.pdf)
 <br>
 <br>
-- [CJTF 82 - Directions&Guidance for D+10](/OPAR-Brief/MISSION INFORMATION/CJTF_D_G/OPAR CJTF DIRECTION AND GUIDANCE D10.pdf)
-- [CJTF 82 - Update on friendly situation D+10 combatflite](/OPAR-Brief/MISSION INFORMATION/Friendly_update.cf)
+- [CJTF 82 - Directions&Guidance for D+11](/OPAR-Brief/MISSION INFORMATION/CJTF_D_G/OPAR CJTF DIRECTION AND GUIDANCE D11.pdf)
+- [CJTF 82 - Update on friendly situation D+11 combatflite](/OPAR-Brief/MISSION INFORMATION/Friendly_update.cf)
 <br>
 <br>
 
@@ -33,8 +33,8 @@
 - [Joint Air Operations Plan (JAOP)](/OPAR-Brief/ORDERS/OPAR_JFACC_JOINT_AIR_OPERATIONS_PLAN_D1.pdf)
 <br>
 <br>
-- [Air Operations Directive D+10](/OPAR-Brief/ORDERS/JFACC/OPAR_JFACC_AOD_D10.pdf)
-- [Joint Prioritized Target List D+10](/OPAR-Brief/ORDERS/JFACC/OPAR_JOINT_TARGET_LIST_D10.pdf) 
+- [Air Operations Directive D+11](/OPAR-Brief/ORDERS/JFACC/OPAR_JFACC_AOD_D11.pdf)
+- [Joint Prioritized Target List D+11](/OPAR-Brief/ORDERS/JFACC/OPAR_JOINT_TARGET_LIST_D11.pdf) 
 
 
 
