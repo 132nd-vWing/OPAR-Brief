@@ -2,25 +2,22 @@
 
 
 ### Basic Intelligence
-- [INTREP VIS B-001 Generic Ground Force Structure](https://raw.githubusercontent.com/132nd-vWing/VIS/master/BASIC/PUBLISHED/INTREP%20VIS%20B-001%20Generic%20Ground%20Force%20Structure%20v1.0.pdf)
-- [INTREP VIS B-002 Generic Air Force Structure](https://raw.githubusercontent.com/132nd-vWing/VIS/master/BASIC/PUBLISHED/INTREP%20VIS%20B-002%20Generic%20Air%20Force%20Structure%20v1.0.pdf)
+- [INTREP VIS B-001 Generic Ground Force Structure](/OPAR-Brief/INTELLIGENCE/VID/INTREP VID B-001 Generic Ground Force Structure.pdf)
+- [INTREP VIS B-002 Generic Air Force Structure]((/OPAR-Brief/INTELLIGENCE/VID/INTREP VID B-002 Generic Air Force Structure.pdf)
 
 
 
 ### Syrian Army
 - [Syrian Army](/OPAR-Brief/INTELLIGENCE/Syrian_Army.html)
-- [INTREP VIS OPAR-001 - Syrian ground combat tactics](https://raw.githubusercontent.com/132nd-vWing/VIS/master/OPAR/PUBLISHED/INTREP%20VIS%20OPAR-001%20-%20Syrian%20ground%20combat%20tactics.pdf)
+- [INTREP VIS OPAR-001 - Syrian ground combat tactics](/OPAR-Brief/INTELLIGENCE/VID/INTREP VID OPAR-003 - Syrian ground combat tactics.pdf)
 
 
 
 ### Syrian Air Force
-- [INTREP VIS OPAR-002 - Syrian IADS](https://raw.githubusercontent.com/132nd-vWing/VIS/master/OPAR/PUBLISHED/INTREP%20VIS%20OPAR-002%20-%20Syrian%20IADS.pdf)
-- [INTREP VIS OPAR-003 - Syrian Air Force](https://raw.githubusercontent.com/132nd-vWing/VIS/master/OPAR/PUBLISHED/INTREP%20VIS%20OPAR-003%20-%20Syrian%20Air%20Force.pdf)
+- [INTREP VIS OPAR-001 - Syrian Air Force](/OPAR-Brief/INTELLIGENCE/VID/INTREP VID OPAR-001 - Syrian Air Force.pdf)
+- [INTREP VIS OPAR-002 - Syrian IADS](/OPAR-Brief/INTELLIGENCE/VID/INTREP VID OPAR-002 - Syrian IADS.pdf)
 
 
-
-### HEZBOLLAH
-- [INTREP VIS OPAR-004 - Hezbollah](https://raw.githubusercontent.com/132nd-vWing/VIS/master/OPAR/PUBLISHED/INTREP%20VIS%20OPAR-004%20-%20HEZBOLLAH%20ground%20combat%20tactics.pdf)
 
 ### RUSSIA
 - [VID INTREP RUSSIAN S-300 variants](/OPAR-Brief/INTELLIGENCE/VID/OPAR_VID_INTREP_RUSSIAN_S300_VARIANTS.pdf) 
