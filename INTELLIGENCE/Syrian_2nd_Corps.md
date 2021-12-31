@@ -13,7 +13,7 @@
 - 2121 Mechanized BN
 - 2122 Mechanized BN
 - 2123 Mechanized BN
-- 2124 Mechanized BN
+- 2124 Artillery BN
 - 2162nd Air Defence BN  (from 216th Air Defence Regiment)
 
 **213th Mechanized Brigade**
