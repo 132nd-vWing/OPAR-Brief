@@ -24,8 +24,8 @@
 
 
 ### Joint Target List
-- [OPAR Joint Target List (JTL)](/OPAR-Brief/INTELLIGENCE/TGT_LIST/OPAR v2.0_JOINT_TARGET_LIST_WIP)
-- [OPAR Joint Target List Combatflite file](/OPAR-Brief/INTELLIGENCE/TGT_LIST/OPAR_VIS_JOINT_TARGET_LIST_OVERLAY)
+- [OPAR Joint Target List (JTL)](/OPAR-Brief/INTELLIGENCE/TGT_LIST/OPAR v2.0_JOINT_TARGET_LIST_WIP.xlsx)
+- [OPAR Joint Target List Combatflite file](/OPAR-Brief/INTELLIGENCE/TGT_LIST/OPAR_VIS_JOINT_TARGET_LIST_OVERLAY.cf)
 
 <br>
 <br>
