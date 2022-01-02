@@ -8,7 +8,7 @@
 
 
 ### Situation
-- [Situation](/OPAR-Brief/SITUATION/OPAR_Road_to_war.pdf) 
+- [Situation](/OPAR-Brief/SITUATION/132nd OP ACTIVE RESOLVE Road to War brief v2.0.pdf) 
 <br>
 <br>
 ### Intelligence 
@@ -16,16 +16,13 @@
 <br>
 <br>
 ### CJTF-82 Orders
-- [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/OPAR CJTF82 OPERATION ORDER.pdf)
+- [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/CJTF/OPAR_CJTF_JFC OPERATION ORDER.pdf)
 <br>
 <br>
 - [CJTF 82 - Directions&Guidance for D+12](/OPAR-Brief/MISSION INFORMATION/CJTF_D_G/OPAR CJTF DIRECTION AND GUIDANCE D12.pdf)
 - [CJTF 82 - Update on friendly situation D+12 combatflite](/OPAR-Brief/MISSION INFORMATION/Friendly_update.cf)
 <br>
 <br>
-
-### CJTF-82 orders archive (orders from previous events)
-- [Orders Archive](/OPAR-Brief/ORDERS/ARCHIVE/ORDER_Archive.html)
 <br>
 <br>
 <br>
