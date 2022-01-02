@@ -5,10 +5,8 @@
 <br>
 
 
-
-
 ### Situation
-- [Situation](/OPAR-Brief/SITUATION/132nd OP ACTIVE RESOLVE Road to War brief v2.0.pdf) 
+- [Road to war (Scenario)](/OPAR-Brief/SITUATION/132nd OP ACTIVE RESOLVE Road to War brief v2.0.pdf) 
 <br>
 <br>
 ### Intelligence 
@@ -18,24 +16,14 @@
 ### CJTF-82 Orders
 - [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/CJTF/OPAR_CJTF_JFC OPERATION ORDER.pdf)
 <br>
-<br>
-- [CJTF 82 - Directions&Guidance for D+12](/OPAR-Brief/MISSION INFORMATION/CJTF_D_G/OPAR CJTF DIRECTION AND GUIDANCE D12.pdf)
-- [CJTF 82 - Update on friendly situation D+12 combatflite](/OPAR-Brief/MISSION INFORMATION/Friendly_update.cf)
-<br>
-<br>
-<br>
+- [CJTF 82 - Directions&Guidance for D1 - TBD](/OPAR-Brief/ORDERS/D_G/CJTF/TBD.pdf)
+- [CJTF 82 - Update on friendly situation D1 combatflite](/OPAR-Brief/MISSION INFORMATION/TBD.cf)
 <br>
 <br>
 ### Joint Force Air Component Commander (JFACC)
-- [Joint Air Operations Plan (JAOP)](/OPAR-Brief/ORDERS/OPAR_JFACC_JOINT_AIR_OPERATIONS_PLAN_D1.pdf)
+- [Joint Air Operations Plan (JAOP)](/OPAR-Brief/ORDERS/JFACC/TBD.pdf)
 <br>
-<br>
-- [Air Operations Directive D+11](/OPAR-Brief/ORDERS/JFACC/OPAR_JFACC_AOD_D11.pdf)
-- [Joint Prioritized Target List D+11](/OPAR-Brief/ORDERS/JFACC/OPAR_JOINT_TARGET_LIST_D11.pdf) 
-
-
-
-
+- [Air Operations Directive D1 - TBD](/OPAR-Brief/ORDERS/JFACC/TBD.pdf)
 <br>
 <br>
 <br>
