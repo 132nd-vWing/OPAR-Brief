@@ -99,7 +99,8 @@ For additional details, see SPINS section 3.4 Reporting
 <br>
 <br>
 ### Get OPAR access
-Once you have completed Step 1-3 and read through this entire page, send Neck a PM on discord and ask to be given the OPAR role on discord giving you all the necessary access to participate in the campaign. 
+Once you have completed Step 1-3 and understood the rest of the steps, send Neck a PM on discord and ask to be given the OPAR role on discord giving you all the necessary access to 
+participate in the campaign. 
 
 <br>
 <br>
