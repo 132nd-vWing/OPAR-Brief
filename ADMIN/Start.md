@@ -15,7 +15,7 @@ and is highly relient on pilot reporting during and after events.
 
 #### Step 1: OPAR Admin document
 Start by reading OPAR Admin document to get the overall understanding of the OPAR construct.
-- [OPAR Admin document](https://132nd-vwing.github.io/OPAR-Brief/SITUATION/OPAR_Road_to_war.pdf)
+- [OPAR Admin document](https://github.com/132nd-vWing/OPAR-Brief/raw/master/UNDER%20DEVELOPMENT/ADMIN%20DOCUMENTS%20TTPs%20OPAR%202.0/02%20Published/OPAR%20Admin%20Introduction%20v1.1.pdf)
 <br>
 <br>
 
@@ -24,7 +24,7 @@ Start by reading OPAR Admin document to get the overall understanding of the OPA
 <br>
 #### Step 2: Road to war
 After the Admin document you should read the road to war. This gives a big picture understanding of the campaign.
-- [Road to war](https://132nd-vwing.github.io/OPAR-Brief/SITUATION/OPAR_Road_to_war.pdf)
+- [Road to war](/OPAR-Brief/SITUATION/132nd OP ACTIVE RESOLVE Road to War brief v2.0.pdf)
 <br>
 <br>
 

@@ -1,7 +1,7 @@
 # Weather and time
 
 ## Upcoming event
-D+12
+D0
 
 ### Time in mission
 Server will be started:
@@ -14,7 +14,7 @@ G= Local In game time
 <br>
 
 ### Weather forecast
-- D+12: Calm winds from NORTH, overcast
+- D0: Calm winds from NORTH, clear skies
 
 
 <br>
@@ -23,9 +23,9 @@ G= Local In game time
 
 
 ## Weather forecast next events:
-- D+13: Clear skies
-- D+14: Scattered clouds
-- D+15: Scattered clouds
+- D1: TBD
+- D2: TBD
+- D2: TBD
 
 <br>
 <br>

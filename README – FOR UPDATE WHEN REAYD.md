@@ -16,14 +16,14 @@
 ### CJTF-82 Orders
 - [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/CJTF/OPAR_CJTF_JFC OPERATION ORDER.pdf)
 <br>
-- [CJTF 82 - Directions&Guidance for D2 - WIP - WILL BE PUBLISHED LATER ONCE JFACC HAVE COMPLETED AIR CAMPAIGN PLANNING]
-- [CJTF 82 - Update on friendly situation D2 combatflite - WIP - WILL BE PUBLISHED LATER ONCE JFACC HAVE COMPLETED AIR CAMPAIGN PLANNING]
+- [CJTF 82 - Directions&Guidance for D1 - TBD](/OPAR-Brief/ORDERS/D_G/CJTF/TBD.pdf)
+- [CJTF 82 - Update on friendly situation D1 combatflite](/OPAR-Brief/MISSION INFORMATION/TBD.cf)
 <br>
 <br>
 ### Joint Force Air Component Commander (JFACC)
-- [Joint Air Operations Plan (JAOP) WIP - WILL BE PUBLISHED LATER ONCE JFACC HAVE COMPLETED AIR CAMPAIGN PLANNING]
+- [Joint Air Operations Plan (JAOP)](/OPAR-Brief/ORDERS/JFACC/TBD.pdf)
 <br>
-- [Air Operations Directive D1 - WIP - WILL BE PUBLISHED LATER ONCE JFACC HAVE COMPLETED AIR CAMPAIGN PLANNING]
+- [Air Operations Directive D1 - TBD](/OPAR-Brief/ORDERS/JFACC/TBD.pdf)
 <br>
 <br>
 <br>
@@ -31,10 +31,10 @@
 - [Weather forecast + time (current + next 3 events)](/OPAR-Brief/MISSION INFORMATION/Weather.html) 
 - [Maintenance and logisitcal status](/OPAR-Brief/MISSION INFORMATION/Maintenance.html) 
 - [Presets](/OPAR-Brief/COMMUNICATIONS/PRESETS.html) 
-- [SPINS WIP - WILL BE PUBLISHED LATER ONCE JFACC HAVE COMPLETED AIR CAMPAIGN PLANNING]
+- [SPINS](/OPAR-Brief/MISSION INFORMATION/OPAR JFACC STANDING SPINS.pdf)
 - [Airfield information](/OPAR-Brief/MISSION INFORMATION/Airfields.html)
 - [Carrier information](/OPAR-Brief/MISSION INFORMATION/Carrier.html)
-- [Airspace Control Plan (ACP) WIP - WILL BE PUBLISHED LATER ONCE JFACC HAVE COMPLETED AIR CAMPAIGN PLANNING]
+- [Airspace Control Plan (ACP) ](/OPAR-Brief/MISSION INFORMATION/AirspaceControlPlan.cf)
 
 
 <br>
