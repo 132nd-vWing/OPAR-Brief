@@ -1,7 +1,7 @@
 # Maintenance issues
 
 ## Upcoming event: 
-D+1
+D0
 
 ### Current status
 - AWACS tailnumber 501: No issues, operational

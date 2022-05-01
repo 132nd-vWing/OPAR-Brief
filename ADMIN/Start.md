@@ -2,7 +2,6 @@
 <br>
 #### Version 2.0: Updated 1st May 2022
 <br>
-
 If this is your first mission in OPAR you should start reading in the order listed below.
 Operation Active Resolve is a comprehensive campaign that will span over 30+ events. 
 Because of this, there is a large background and supporting documents to setup the campaign.
@@ -13,32 +12,24 @@ All information can be found from the frontpage: [OPAR Frontpage](https://132nd-
 <br>
 <br>
 
-
 #### Step 1: OPAR Admin document
 Start by reading OPAR Admin document to get the overall understanding of the OPAR construct.
 - [OPAR Admin document](/OPAR-Brief/UNDER DEVELOPMENT/ADMIN DOCUMENTS TTPs OPAR 2.0/02 Published/OPAR Admin Introduction v1.1.pdf)
-
 <br>
 <br>
 
-
-<br>
-<br>
 #### Step 2: Road to war
 After the Admin document you should read the road to war. This gives a big picture understanding of the campaign.
 - [Road to war](/OPAR-Brief/SITUATION/132nd OP ACTIVE RESOLVE Road to War brief v2.0.pdf)
 <br>
 <br>
 
-
 #### Step 3: Combined Joint Task Force 82 Operations Order
 Next you should read the operations order for CJTF-82 (which we all are a part of). This order gives the overall guidance to the entire force
 (both ground, air and sea). This operation order is governing the entire campaign.
 - [CJTF 82 OP ORDER](/OPAR-Brief/ORDERS/CJTF/OPAR_CJTF_JFC OPERATION ORDER.pdf)
-
 <br>
 <br>
-
 
 #### Step 4: Intelligence
 Next you should read various intelligene products to get a more detailed understanding of the enemy, and the situation. Here you can do a deep dive, or you can skim the surface.
@@ -50,7 +41,6 @@ In addition to the VIS INTSUMs there is several other Intelligence Reports (INTR
 <br>
 <br>
 
-
 #### Step 5: Joint Air Operations Plan (JAOP)
 Next you should read the JAOP. This is the Joint Force Air Component Commands (JFACC) plan for how the air component (which we all are a part of) should execute 
 the entire air campaign to solve the mission given in the CJTF-82 OP ORDER. This document is made fully by the volunteers based on availeble intelligence and guidance from 
@@ -59,14 +49,12 @@ CJTF-82.
 <br>
 <br>
 
-
 #### Step 6: Special Instructions (SPINS)
 Next you should read the SPINS. This is a single document that governs air operations for the entire force. This document contains various information, such as command and control, 
 risk levels, A-A information, tanker information etc.
 - [SPINS] TO BE PUBLISHED CLOSER TO MAY 29TH WHEN JFACC HAVE COMPLETED PLANNING 
 <br>
 <br>
-
 
 #### Step 7: Air Operations Directive (AOD)
 When you are getting close to a event (an event is published on the 132nd event page). You should start looking for the Air Operations Directive (AOD) provided by JFACC.
@@ -77,7 +65,6 @@ These documents will be availeble on the main page for OPAR.
 <br>
 <br>
 
-
 #### Step 8: Air Tasking Order and Joint Prioritized Target List (JPTL)  
 When signed up, and assigned to a flight you are now ready to start your detailed flight planning. You should now find your mission on the ATO (on the 132nd website). 
 The ATO is availeble normally late friday evenings before a event on sundays. 
@@ -87,12 +74,10 @@ Additional information is availeble on the OPAR briefing main page, under missio
 <br>
 <br>
 
-
 #### Step 9: Fly your mission
 Execute your mission
 <br>
 <br>
-
 
 #### Step 10: After Action Review (AAR)
 The last step after a mission is to fill out a AAR on the 132nd website. The focus for the AAR is on giving everyone a common understanding on what happened in the mission, 
@@ -113,15 +98,9 @@ For additional details, see SPINS section 3.4 Reporting
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 ### Get OPAR access
 Once you have completed Step 1-3 and read through this entire page, send Neck a PM on discord and ask to be given the OPAR role on discord giving you all the necessary access to participate in the campaign. 
 
-
-<br>
-<br>
 <br>
 <br>
 <br>
