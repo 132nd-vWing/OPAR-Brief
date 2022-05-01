@@ -9,13 +9,15 @@ Because of this, there is a large background and supporting documents to setup t
 In addition this campaign is unique because of volunteers filling the roles as the intelligence agency, Virtual Intelligence Service (VIS)
 and volunteers in the role as Joint Force Air Component Command directing and commanding the Air Campaign. These roles do not have access to the .miz file
 and is highly relient on pilot reporting during and after events.
+All information can be found from the frontpage: [OPAR Frontpage](https://132nd-vwing.github.io/OPAR-Brief/)
 <br>
 <br>
 
 
 #### Step 1: OPAR Admin document
 Start by reading OPAR Admin document to get the overall understanding of the OPAR construct.
-- [OPAR Admin document](https://github.com/132nd-vWing/OPAR-Brief/raw/master/UNDER%20DEVELOPMENT/ADMIN%20DOCUMENTS%20TTPs%20OPAR%202.0/02%20Published/OPAR%20Admin%20Introduction%20v1.1.PDF)
+- [OPAR Admin document](/OPAR-Brief/UNDER DEVELOPMENT/ADMIN DOCUMENTS TTPs OPAR 2.0/02 Published/OPAR Admin Introduction v1.1.pdf)
+
 <br>
 <br>
 
@@ -24,7 +26,7 @@ Start by reading OPAR Admin document to get the overall understanding of the OPA
 <br>
 #### Step 2: Road to war
 After the Admin document you should read the road to war. This gives a big picture understanding of the campaign.
-- [Road to war](/OPAR-Brief/SITUATION/132nd OP ACTIVE RESOLVE Road to War brief v2.0.PDF)
+- [Road to war](/OPAR-Brief/SITUATION/132nd OP ACTIVE RESOLVE Road to War brief v2.0.pdf)
 <br>
 <br>
 
@@ -32,7 +34,8 @@ After the Admin document you should read the road to war. This gives a big pictu
 #### Step 3: Combined Joint Task Force 82 Operations Order
 Next you should read the operations order for CJTF-82 (which we all are a part of). This order gives the overall guidance to the entire force
 (both ground, air and sea). This operation order is governing the entire campaign.
-- [CJTF 82 OP ORDER](https://132nd-vwing.github.io/OPAR-Brief/ORDERS/OPAR%20CJTF82%20OPERATION%20ORDER.PDF)
+- [CJTF 82 OP ORDER](/OPAR-Brief/ORDERS/CJTF/OPAR_CJTF_JFC OPERATION ORDER.pdf)
+
 <br>
 <br>
 
