@@ -58,7 +58,10 @@ Is published on the 132nd website
 <br>
 <br>
 <br>
-
+### JFACC and VIS TTP
+For volunteers in the roles of JFACC and/or VIS that is planning and executing the air campaign, the following TTPs are available:
+- [JFACC TTP](/OPAR-Brief/ADMIN/JFACC TTP v1.0.pdf)
+- [VIS TTP](/OPAR-Brief/ADMIN/VIS TTP v0.3.pdf)
 <br>
 <br>
 <br>
