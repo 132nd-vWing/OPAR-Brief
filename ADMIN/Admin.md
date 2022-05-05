@@ -30,16 +30,14 @@ Please refer to the 132nd Skin and Mod Install QuickstartGuide: <br>
 
 ## Governing Documents
 The following documents provides necessary information <br>
-[Air Warfare Doctrine](https://www.dropbox.com/s/wd0ppnsrje63cux/132-DP-1%20132nd%20Air%20Warfare%20Doctrine%20v1.0.pdf?dl=0) <br> 
-[132-TTP-1 CAS Manual v1.2](https://www.dropbox.com/s/p9jirjxt00ri23k/132-TTP-1%20CAS%20Manual%20v1.2.pdf?dl=0?dl=0) <br>
-[132-CSAR-1 CSAR Manual v1.3](https://www.dropbox.com/s/l9wiix5s3yyr75t/132-TTP-11%20CSAR%20operations%201.3.pdf?raw=1) <br>
-[132-TTP-4 Brevity v1.1](https://www.dropbox.com/s/lsp4c41r0l8vjs4/132-TTP-4%20Brevity%20v1.1%20.pdf?dl=0) <br>
-[132-TTP-5-ATC and Airbase operations v1.0](https://www.dropbox.com/s/g6y24lj2ydwrbd1/132-TTP-5%20ATC%20and%20Airbase%20operations%20v2.1.pdf?dl=0) <br>
-[132-TTP-6 SCAR v2.0](https://www.dropbox.com/s/fgjn3wgn5aoit5w/132-TTP-6%20SCAR%20v2.0.pdf?dl=0) <br>
-[132-TTP-8 Briefing Guide v1.1](https://www.dropbox.com/s/5tog1wm25lv4uxy/132-TTP-8%20Briefing%20Guide%20v1.1.pdf?raw=1) <br>
-[132-TTP-10-AWACS Procedures v2.0](https://www.dropbox.com/s/udeqz9vxqawkiui/132-TTP-10-AWACS%20v2.0.pdf?dl=0) <br>
-[132-TTP-12 Armed Reconnaissance v1.0](https://www.dropbox.com/s/0020j7nv0gaeav6/132-TTP-12%20Armed%20Reconnaissance%20v1.0.pdf?dl=0) <br>
-[132-TTP-13 Air Interdiction v1.0](https://www.dropbox.com/s/b7ppa1vzba778f0/132-TTP-13%20Air%20Interdiction%20v1.0.pdf?dl=0) <br>
+[Air Warfare Doctrine v1.0](https://cloud.132virtualwing.org/s/z5eDWAAB4SC9AQi) <br> 
+[132-TTP-1 CAS Manual v1.2](https://cloud.132virtualwing.org/s/mwnkkWGiTSsgdKD) <br>
+[132-TTP-4 Brevity v2.0](https://cloud.132virtualwing.org/s/CLD54EftnRnMJ8X) <br>
+[132-TTP-5-ATC and Airbase operations v3.0](https://cloud.132virtualwing.org/s/3xpcZdyaKpBpwmc) <br>
+[132-TTP-6 SCAR v2.0](https://cloud.132virtualwing.org/s/xWSCMoLiiXr36iy) <br>
+[132-TTP-10-AWACS Procedures v2.0](https://cloud.132virtualwing.org/s/6DW2MKT6RtnNraz) <br>
+[132-TTP-12 Armed Reconnaissance v1.0](https://cloud.132virtualwing.org/s/kK62jdZceY9m8Nq) <br>
+[132-TTP-13 Air Interdiction v1.0](https://cloud.132virtualwing.org/s/Fei9PNNfK23makb) <br>
 
 [Relevant TTP's under documents](http://132virtualwing.org/index.php/page/documents) <br>
 

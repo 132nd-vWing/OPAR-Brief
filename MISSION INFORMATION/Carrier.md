@@ -10,13 +10,18 @@ ED's carrier ATC is being used and the following calls are mandatory in CASE-I o
 - 'Ball call'
 
 ## BLUE Carrier 1
-- CVN_72_Abraham_Lincoln
+- CVN 72 Abraham Lincoln
 - TACAN: 72X
 - ICLS: 12
-- ATC: 309.100
+- ATC: 309.100 (AI)
+- Link 4: 309.80
 
 
-## BLUE Carrier 2
+
+
+
+
+## BLUE Carrier 2 (NOT ACTIVE AT CAMPAIGN START)
 - CVN_73_George Washington
 - TACAN: 73X
 - ICLS: 13
