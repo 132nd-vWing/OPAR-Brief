@@ -9,27 +9,20 @@ ED's carrier ATC is being used and the following calls are mandatory in CASE-I o
 - 'Initials'
 - 'Ball call'
 
-## BLUE Carrier 1
+## BLUE Carrier
 - CVN 72 Abraham Lincoln
-- TACAN: 72X
-- ICLS: 12
-- ATC: 309.100 (AI)
-- Link 4: 309.80
+- TACAN:            72X, "C72"
+- ICLS:             12,  "C72"
+- ATC:              309.500 (AI)
+- LSO:              309.100
+- Marshal:          309.900
+- Recovery Tanker:  143.500 TACAN 64Y, "T72"
+- Link 4:   309.80
 
-
-
-
-
-
-## BLUE Carrier 2 (NOT ACTIVE AT CAMPAIGN START)
-- CVN_73_George Washington
-- TACAN: 73X
-- ICLS: 13
-- ATC: 310.100
-
-
-
-
+## Recovery Cycles
+- First cycle: 1030-1045
+- Second cycle: 1130-1145
+- Third cycle: 1230-124
 
 
 ## Back
