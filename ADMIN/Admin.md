@@ -7,7 +7,7 @@
 <br>
 <br>
 ## Radio plugin - Simple Radio
-132bd events is conducted using Simple Radio (SRS
+132nd events is conducted using Simple Radio (SRS)
 [SRS thread on ED forums](https://forums.eagle.ru/showthread.php?t=169387)
 <br>
 <br>
