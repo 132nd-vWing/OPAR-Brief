@@ -21,9 +21,11 @@
 <br>
 <br>
 ### Joint Force Air Component Commander (JFACC)
-- [Joint Air Operations Plan (JAOP) ] WIP - WILL BE PUBLISHED LATER ONCE JFACC HAVE COMPLETED AIR CAMPAIGN PLANNING
+- [Joint Air Operations Plan (JAOP) ](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC JAOP.pdf)
 <br>
-- [Air Operations Directive D1] WIP - WILL BE PUBLISHED LATER ONCE JFACC HAVE COMPLETED AIR CAMPAIGN PLANNING
+- [Air Operations Directive D1](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC AOD D1.pdf)
+- [Joint Prioritized Target List (JPTL) D1)](/OPAR-Brief/ORDERS/JFACC/OPAR D1 JPTL.pdf)
+- [Airspace Control Order (ACO) D1)] To be issued by JFACC
 <br>
 <br>
 <br>
@@ -31,10 +33,10 @@
 - [Weather forecast + time (current + next 3 events)](/OPAR-Brief/MISSION INFORMATION/Weather.html) 
 - [Maintenance and logisitcal status](/OPAR-Brief/MISSION INFORMATION/Maintenance.html) 
 - [Presets](/OPAR-Brief/COMMUNICATIONS/PRESETS.html) 
-- [SPINS] WIP - WILL BE PUBLISHED LATER ONCE JFACC HAVE COMPLETED AIR CAMPAIGN PLANNING
+- [SPINS](/OPAR-Brief/MISSION INFORMATION/OPAR JFACC STANDING SPINS.pdf)
 - [Airfield information](/OPAR-Brief/MISSION INFORMATION/Airfields.html)
 - [Carrier information](/OPAR-Brief/MISSION INFORMATION/Carrier.html)
-- [Airspace Control Plan (ACP)] WIP - WILL BE PUBLISHED LATER ONCE JFACC HAVE COMPLETED AIR CAMPAIGN PLANNING
+- [Airspace Control Plan (ACP)](/OPAR-Brief/MISSION INFORMATION/OPAR ACP v1.0.cf)
 
 - [AET-100 OPAR v2.0](/OPAR-Brief/MISSION INFORMATION/AET-100 OPAR v2.0.pdf)
 - [TAT-101 OPAR v2.0](/OPAR-Brief/MISSION INFORMATION/TAT-101 OPAR v2.0.pdf)

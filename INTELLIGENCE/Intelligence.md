@@ -42,7 +42,8 @@
 <br>
 
 ### VIS INTSUM
-
+- [INTSUM VIS OPAR-D0 + Targeting Presentation](/OPAR-Brief/INTELLIGENCE/VIS/VIS D0 INTSUM + Targeting Presentation.pdf)
+VIS D0 INTSUM + Targeting Presentation
 <br>
 <br>
 ### VIS INTREP
