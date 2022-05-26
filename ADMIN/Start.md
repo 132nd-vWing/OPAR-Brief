@@ -45,14 +45,14 @@ In addition to the VIS INTSUMs there is several other Intelligence Reports (INTR
 Next you should read the JAOP. This is the Joint Force Air Component Commands (JFACC) plan for how the air component (which we all are a part of) should execute 
 the entire air campaign to solve the mission given in the CJTF-82 OP ORDER. This document is made fully by the volunteers based on availeble intelligence and guidance from 
 CJTF-82.
-- [JAOP] TO BE PUBLISHED CLOSER TO MAY 29TH WHEN JFACC HAVE COMPLETED PLANNING
+- [Joint Air Operations Plan (JAOP) ](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC JAOP.pdf)
 <br>
 <br>
 
 #### Step 6: Special Instructions (SPINS)
 Next you should read the SPINS. This is a single document that governs air operations for the entire force. This document contains various information, such as command and control, 
 risk levels, A-A information, tanker information etc.
-- [SPINS] TO BE PUBLISHED CLOSER TO MAY 29TH WHEN JFACC HAVE COMPLETED PLANNING 
+- [SPINS](/OPAR-Brief/MISSION INFORMATION/OPAR JFACC STANDING SPINS.pdf)
 <br>
 <br>
 
