@@ -22,7 +22,7 @@ Hatai       | 128.6 | 128.2 | 128.5      |
 
 
 
-- [Airfield charts](https://www.digitalcombatsimulator.com/en/files/3311946/)
+- [Airfield charts](https://cloud.132virtualwing.org/s/LCn5PWbfcLsBW6t)
 
 
 
