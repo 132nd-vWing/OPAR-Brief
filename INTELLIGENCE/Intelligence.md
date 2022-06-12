@@ -50,6 +50,7 @@
 <br>
 <br>
 ### VIS INTREP
+- [INTREP VIS R-60 Air-to-Air missile on MI-24](/OPAR-Brief/INTELLIGENCE/VIS/INTREP/VIS INTREP_R-60_A2A-missile.pdf)
 
 
 ### VIS INTELLIGENCE REQUIREMENTS
