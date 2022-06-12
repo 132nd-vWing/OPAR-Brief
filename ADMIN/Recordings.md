@@ -3,6 +3,10 @@ Recordings from OPAR mission will be posted below
 
 #### Mission D0
 
+- [BLUE TACVIEW D0](https://cloud.132virtualwing.org/s/zw68PzcH5Xk99wS)
+- [BLUE TACVIEW D1.1](https://cloud.132virtualwing.org/s/fQzXoXeoDcAi7YW)
+- [BLUE TACVIEW D1.2](https://cloud.132virtualwing.org/s/wpfk6nN9fJSRowy)
+
 <br>
 <br>
 
