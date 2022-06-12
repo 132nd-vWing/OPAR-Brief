@@ -14,7 +14,7 @@ G= Local In game time
 <br>
 
 ### Weather forecast
-- D1.2: Day, Calm winds from NORTH, clear skies
+- D1.2: Night, Calm winds from NORTH, clear skies
 
 
 <br>
