@@ -20,9 +20,8 @@ ED's carrier ATC is being used and the following calls are mandatory in CASE-I o
 - Link 4:   309.80
 
 ## Recovery Cycles
-- First cycle: 1430-1445
-- Second cycle: 1530-1545
-- Third cycle: 1630-1645
+The carrier is open for cyclic ops every hour from minute 30 until minute 45 (From HH:30 until HH:45).
+
 
 
 ## Back
