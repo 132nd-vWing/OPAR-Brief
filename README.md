@@ -16,16 +16,16 @@
 ### CJTF-82 Orders
 - [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/CJTF/OPAR_CJTF_JFC OPERATION ORDER.pdf)
 <br>
-- [CJTF 82 - Directions&Guidance for D2 ] WIP - WILL BE PUBLISHED AFTER ATO D1
-- [CJTF 82 - Update on friendly situation D2 combatflite ] WIP - WILL BE PUBLISHED AFTER ATO D1
+- [CJTF 82 - Directions&Guidance for D2 ](/OPAR-Brief/ORDERS/CJTF/OPAR CJTF DIRECTION AND GUIDANCE D2.pdf)
+- [CJTF 82 - Update on friendly situation D2 combatflite ](/OPAR-Brief/COMBATFLITE/OPAR Friendly situation.cf)
 <br>
 <br>
 ### Joint Force Air Component Commander (JFACC)
 - [Joint Air Operations Plan (JAOP) ](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC JAOP.pdf)
 <br>
-- [Air Operations Directive D1](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC AOD D1.pdf)
-- [Joint Prioritized Target List (JPTL) D1)](/OPAR-Brief/ORDERS/JFACC/OPAR D1 JPTL.pdf)
-- [Airspace Control Order (ACO) D1)](/OPAR-Brief/MISSION INFORMATION/OPAR ACO D1.2.cf)
+- [Air Operations Directive D2 - WIP, TO BE ISSUED](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC AOD D2.pdf)
+- [Joint Prioritized Target List (JPTL) D2 - WIP, TO BE ISSUED)](/OPAR-Brief/ORDERS/JFACC/OPAR D2 JPTL.pdf)
+- [Airspace Control Order (ACO) D2 - WIP, TO BE ISSUED)](/OPAR-Brief/MISSION INFORMATION/OPAR ACO D2.2.cf)
 <br>
 <br>
 <br>
