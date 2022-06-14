@@ -14,7 +14,7 @@ G= Local In game time
 <br>
 
 ### Weather forecast
-- D2.1: Day, Overcast FL130-FL170, calm winds, wind from the south  (Mission time at event start: 1000G)
+- D2.1: Day, Overcast FL130-FL170, calm winds, wind from the south  (Mission time at event start: 0700G)
 
 
 <br>
