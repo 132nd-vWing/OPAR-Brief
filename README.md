@@ -25,7 +25,7 @@
 <br>
 - [Air Operations Directive D2](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D2 AOD.pdf)
 - [Joint Prioritized Target List (JPTL)](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D2 JPTL.pdf)
-- [Airspace Control Order (ACO) D2](/OPAR-Brief/ORDERS/OPAR JFACC D2 ACO.cf)
+- [Airspace Control Order (ACO) D2](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D2 ACO.cf)
 <br>
 <br>
 <br>
