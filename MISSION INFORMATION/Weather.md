@@ -1,12 +1,12 @@
 # Weather and time
 
 ## Upcoming event
-D2.1
+D2.2
 
 ### Time in mission
 Server will be started:
-- 1700Z. Time in game is then 0600G
-- Event start at 1800Z. Time in game is then 0700G.
+- 1700Z. Time in game is then 2100G
+- Event start at 1800Z. Time in game is then 2200G.
 
 Z= Real world time
 G= Local In game time
@@ -14,8 +14,7 @@ G= Local In game time
 <br>
 
 ### Weather forecast
-- D2.1: Day, Overcast FL130-FL170, calm winds, wind from the south  (Mission time at event start: 0700G)
-
+- D2.2: Night, Overcast FL130-FL170, calm winds, winds from the south (Mission time at event start: 2200G)
 
 <br>
 <br>
@@ -23,11 +22,12 @@ G= Local In game time
 
 
 ## Weather forecast next events:
-- D2.2: Night, Overcast, calm winds, winds from the south (Mission time at event start: 2200G)
-- D3.1: Day, Clear skies, calm winds North (Mission time at event start: 1400G)
-- D3.2: Night Clear skies, calm winds North (Mission time at event start: 2200G)
-- D4.1: Day (Mission time at event start: 1400G)
-- D4.2: Day (Mission time at event start: 2200G)
+- D3.1: Day, Clear skies, calm winds North (Mission time at event start: 0600G)
+- D3.2: Night, Clear skies, calm winds North (Mission time at event start: 2200G)
+- D4.1: Day, Clear skies, winds from East (Mission time at event start: 1400G)
+- D4.2: Day, Broken, winds from East (Mission time at event start: 2200G)
+- D5.1: Day, Overcast, rain, Winds from East
+- D5.2: Night, Broken, Winds from South
 
 <br>
 <br>
