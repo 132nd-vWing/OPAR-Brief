@@ -14,7 +14,10 @@ G= Local In game time
 <br>
 
 ### Weather forecast
-- D2.2: Night, Overcast FL130-FL170, calm winds, winds from the south (Mission time at event start: 2200G)
+- D2.2: Night (Mission time at event start: 2200G)
+METAR: BKN/OVC LYR 7/8 17/19
+QNH 29.89
+Wind from 190, 6kts
 
 <br>
 <br>
