@@ -18,7 +18,7 @@
 <br>
 
 ##### D2 (Intelligence from missions flown at D1)
-
+- [VID INTSUM D1](/OPAR-Brief/INTELLIGENCE/VID/OPAR VID INTSUM D1.pdf)
 
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/OPAR-Brief/)

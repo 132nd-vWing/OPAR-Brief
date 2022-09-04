@@ -16,7 +16,7 @@
 ### CJTF-82 Orders
 - [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/CJTF/OPAR_CJTF_JFC OPERATION ORDER.pdf)
 <br>
-- [CJTF 82 - Directions&Guidance for D2 ](/OPAR-Brief/ORDERS/CJTF/OPAR CJTF DIRECTION AND GUIDANCE D2.pdf)
+- [CJTF 82 - Directions&Guidance for D3 ](/OPAR-Brief/ORDERS/CJTF/OPAR CJTF DIRECTION AND GUIDANCE D3.pdf)
 - [CJTF 82 - Update on friendly situation D2 combatflite ](/OPAR-Brief/COMBATFLITE/OPAR Friendly situation.cf)
 <br>
 <br>
