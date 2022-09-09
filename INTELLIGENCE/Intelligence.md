@@ -7,7 +7,7 @@
 
 
 ### Syria as Candidate for Air attack
-- [INTREP VID OPAR-004 Syria as Candidate for Air Attack (SCAA)](/OPAR-Brief/INTELLIGENCE/VID/VID INTREP OPAR-004_Syria_as_candidate_for_Air_attack v1.0.pdf)
+- [INTREP VID OPAR-004 Syria as Candidate for Air Attack (SCAA)](/OPAR-Brief/INTELLIGENCE/VID/VID INTREP OPAR-004_Syria_as_candidate_for_Air_attack v1.2.pdf)
 
 
 ### Syrian Army
@@ -24,10 +24,10 @@
 
 
 ### Joint Target List
-- [OPAR Joint Target List (JTL) - Excel file](/OPAR-Brief/INTELLIGENCE/TGT_LIST/OPAR v2.0_JOINT_TARGET_LIST_v1.3.xlsx)
-- [OPAR Joint Target List (JTL) - PDF file](/OPAR-Brief/INTELLIGENCE/TGT_LIST/OPAR v2.0_JOINT_TARGET_LIST_v1.3.pdf)
+- [OPAR Joint Target List (JTL) - Excel file](/OPAR-Brief/INTELLIGENCE/TGT_LIST/OPAR v2.0_JOINT_TARGET_LIST_v1.4.xlsx)
+- [OPAR Joint Target List (JTL) - PDF file](/OPAR-Brief/INTELLIGENCE/TGT_LIST/OPAR v2.0_JOINT_TARGET_LIST_v1.4.pdf)
 - [OPAR Joint Target List Combatflite file](/OPAR-Brief/INTELLIGENCE/TGT_LIST/OPAR_VIS_JOINT_TARGET_LIST_OVERLAY.cf)
-- [OPAR Joint Target List .miz](/OPAR-Brief/INTELLIGENCE/TGT_LIST/OPAR_FOR_TGT_PRODUCTION v1.2.miz)
+- [OPAR Joint Target List .miz](/OPAR-Brief/INTELLIGENCE/TGT_LIST/OPAR_FOR_TGT_PRODUCTION v1.3.miz)
 
 <br>
 <br>
