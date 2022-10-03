@@ -1,6 +1,6 @@
 # Introduction 
 <br>
-#### Version 2.0: Updated 1st May 2022
+#### Version 2.1: Updated 3rd October 2022
 <br>
 If this is your first mission in OPAR you should start reading in the order listed below.
 Operation Active Resolve is a comprehensive campaign that will span over 30+ events. 
@@ -80,21 +80,32 @@ Execute your mission
 <br>
 
 #### Step 10: After Action Review (AAR)
-The last step after a mission is to fill out a AAR on the 132nd website. The focus for the AAR is on giving everyone a common understanding on what happened in the mission, 
-share information that is of intelligence value and share valuable learning points that can improve tactics and execution in later missions.
+After you have flown and conducted the debrief the next step  is to fill out a AAR on the 132nd website. 
+The focus for the AAR is on giving everyone a common understanding on what happened in the mission, 
+and share valuable learning points and recommendations that can improve tactics and execution in later missions.
 <br>
 The after action report contains the following important information, and is filled out on the 132nd website:
 -	Event sequence:What was done in the mission. Where was it flown.
 -	Lessons Learned: What experiences was done in the mission. What worked, what did not work. Suggestions of tactics that may work, or other ideas on how to solve t he mission or handling situations.
--	Battle Damage Assessment (BDA): If there are delivered any ordnance (both A-A and A-G) fill out the BDA for the engagement. If a pilot do not have a confirmed BDA it should be noted as not confirmed, but a best assessment should be provided.
--	Intel: Any information or observation that can be of intelligence value for 
+-	Battle Damage Assessment (BDA): Not needed in AAR. This will be filled in on a dedicated tool for reporting intelligence, see Step 11
+-	Intel:  Not needed in AAR. This will be filled in on a dedicated tool for reporting intelligence, see Step 11
 -	Attachements: Any pictures (TGP / HUD / out of cockpit) are to be posted in the #bda-reports channel on the 132nd Discord server or as a link in the AAR.
 <br>
+<br>
+
+#### Step 11: Submit intelligence and BDA
+All intelligence, BDA or relevant information are reported in Campaign Manager. This ensures that all information is available in a database that are exportable,
+which make the workflow for VIS volunteers much easier. 
+- To report intelligence go to this website: [Campaign Manager](https://cm.132virtualwing.org/campaigns)
+- Follow the steps in the picture below:
+
+![How to report intelligence](/ADMIN/Report Intelligence instruction.png)
+
 This is the information that VIS uses to produce intelligence for upcoming missions, and JFACC uses as support to make decisions and provide direction and guidance.
 All locations should be given in the following format DD MM.MMM  DDD MM.MMM. This makes the job for VIS much easier, as they can just paste the coordinates into CombatFlite.
 If you only have bulls information, we kindly request you to use 1-2 minutes to convert it into correct coordinates before posting your report.
 <br>
-For additional details, see SPINS section 3.4 Reporting
+For additional details, see SPINS section 3.3.2 After Action Report and 3.3.3 Intelligence reporting instructions
 <br>
 <br>
 <br>
