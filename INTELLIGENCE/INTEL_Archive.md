@@ -19,11 +19,16 @@
 - [INTSUM VIS for D2](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS D2 Targeting Meeting.pdf)
 - [VIS ASSESSMENT AFTER D1 Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS D2 ASSESSMENT.cf)
 
+- [INTSUM VIS for D2](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS D3 Targeting Meeting.pdf)
+- [VIS ASSESSMENT AFTER D2 Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS D3 ASSESSMENT.cf)
+- [VIS ASSESSED SYRIAN ORDER OF BATTLE AFTER D2](/OPAR-Brief/INTELLIGENCE/VIS/OPAR D3 VIS Syrian Order of Battle after D2-2.xlsx)
+
 <br>
 <br>
 
-##### D2 (Intelligence from missions flown at D1)
+##### VID Intelligence summaries
 - [VID INTSUM D1](/OPAR-Brief/INTELLIGENCE/VID/OPAR VID INTSUM D1.pdf)
+- [VID INTSUM D2](/OPAR-Brief/INTELLIGENCE/VID/OPAR VID INTSUM D2.pdf)
 
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/OPAR-Brief/)

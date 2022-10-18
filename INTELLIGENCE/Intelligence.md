@@ -37,16 +37,16 @@
 # Event specific intelligence reports
 
 ### Virtual Intelligence Directorate (VID) Intelligence summaries (INTSUM)
-- [VID INTSUM D2](/OPAR-Brief/INTELLIGENCE/VID/OPAR VID INTSUM D2.pdf)
+- [VID INTSUM D3](/OPAR-Brief/INTELLIGENCE/VID/OPAR VID INTSUM D3.pdf)
 
 
 <br>
 <br>
 
 ### VIS INTSUM
-- [INTSUM VIS for D2](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS D3 Targeting Meeting.pdf)
-- [VIS ASSESSMENT AFTER D2 Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS D3 ASSESSMENT.cf)
-- [VIS ASSESSED SYRIAN ORDER OF BATTLE AFTER D2](/OPAR-Brief/INTELLIGENCE/VIS/OPAR D3 VIS Syrian Order of Battle after D2-2.xlsx)
+- [INTSUM VIS from D3](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS D4 Targeting Meeting.pdf)
+- [VIS ASSESSMENT AFTER D3Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS ASSESSMENT after D3-2.cf)
+- [VIS ASSESSED SYRIAN ORDER OF BATTLE AFTER D3](/OPAR-Brief/INTELLIGENCE/VIS/OPAR D3 VIS Syrian Order of Battle after D3-2.xlsx)
 
 
 <br>
@@ -56,7 +56,7 @@
 
 
 ### VIS INTELLIGENCE REQUIREMENTS
-- [VIS INTELLIGENCE REQUIREMENTS](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS D2 VIS Intelligence Requirements after D1-2.xlsx)
+- [VIS INTELLIGENCE REQUIREMENTS](/OPAR-Brief/INTELLIGENCE/VIS/VIS Intelligence Requirements after D3.xlsx)
 
 <br>
 <br>
