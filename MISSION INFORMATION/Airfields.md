@@ -15,14 +15,11 @@ Hatai       | 128.6 | 128.2 | 128.5      |
 
 
 	
-
+*NOTE:*
+Information about Incirlik in 132nd FLIP v1.3 is not in effect in TRMT. Charts in use are CombatWombat's Airfield Diagrams: Syrian Theatre (Reference to DCS User Files: https://www.digitalcombatsimulator.com/en/files/3311946/)
+- [Airfield charts for download](https://cloud.132virtualwing.org/s/FBYmiTZzsmFDbK9)
+<br>
 		
-
-
-
-
-
-- [Airfield charts](https://cloud.132virtualwing.org/s/LCn5PWbfcLsBW6t)
 
 
 
