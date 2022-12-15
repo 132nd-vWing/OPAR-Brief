@@ -1,12 +1,12 @@
 # Weather and time
 
 ## Upcoming event
-D5.1
+D5.2
 
 ### Time in mission
 Server will be started:
-- 1800Z. Time in game is then 0700G
-- Event start at 1900Z. Time in game is then 0800G.
+- 1800Z. Time in game is then 1800G
+- Event start at 1900Z. Time in game is then 1900G. (Sunset at 1855G)
 
 Z= Real world time
 G= Local In game time
@@ -14,12 +14,12 @@ G= Local In game time
 <br>
 
 ### Weather forecast
-D5.1: 
-- Preset: Overcast and Rain 1 
-- METAR: VIS 3-5 KM RA OVC 3/15 28/30 FEW 40
-- Base 9600ft
-- QNH: 29.81
-- Wind: At 33ft: 12kts from NE. At 26000ft: 40kts from NE
+D5.2: 
+- Preset: Broken 3
+- METAR: SCT/BKN 14/18 BKN 24/27 FEW 40
+- Base 13780ft
+- QNH: 29.82
+- Wind: At 33ft: 10kts from NE. At 26000ft: 32kts from NE
 
 
 <br>
@@ -28,7 +28,6 @@ D5.1:
 
 
 ## Weather forecast next events:
-- D5.1: Day, Overcast, rain, Winds from NorthEast
 - D5.2: Night, Broken, Winds from North
 - D6.1: Day, Clear skies , Winds from North
 - D6.2: Day into night, Clear skies , Winds from North
