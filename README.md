@@ -18,15 +18,15 @@
 - [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/CJTF/OPAR_CJTF_JFC OPERATION ORDER.pdf)
 <br>
 - [CJTF 82 - Directions&Guidance for D6 ](/OPAR-Brief/ORDERS/CJTF/OPAR CJTF DIRECTION AND GUIDANCE D6.pdf)
-- [CJTF 82 - Update on friendly situation D5 combatflite ](/OPAR-Brief/COMBATFLITE/OPAR Friendly situation.cf)
+- [CJTF 82 - Update on friendly situation D6 combatflite ](/OPAR-Brief/COMBATFLITE/OPAR Friendly situation.cf)
 <br>
 <br>
 ### Joint Force Air Component Commander (JFACC)
 - [Joint Air Operations Plan (JAOP) ](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC JAOP.pdf)
 <br>
-- [Air Operations Directive D5](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D5 AOD.pdf)
+- [Air Operations Directive D6](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D6 AOD.pdf)
 - [Joint Prioritized Target List (JPTL) - not published, see AOD](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D3 JPTL.pdf)
-- [Airspace Control Order (ACO) D5](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D5 ACO.cf)
+- [Airspace Control Order (ACO) D6](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D6 ACO.cf)
 <br>
 <br>
 <br>
