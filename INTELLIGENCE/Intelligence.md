@@ -37,18 +37,18 @@
 # Event specific intelligence reports
 
 ### Virtual Intelligence Directorate (VID) Intelligence summaries (INTSUM)
-- [VID INTSUM D5](/OPAR-Brief/INTELLIGENCE/VID/OPAR VID INTSUM D5.pdf)
+- [VID INTSUM D6](/OPAR-Brief/INTELLIGENCE/VID/OPAR VID INTSUM D6.pdf)
 
 
 <br>
 <br>
 
 ### VIS INTSUM
-- [INTSUM VIS from D5](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS Pre D6 Targeting Meeting.pdf)
-- [VIS ASSESSMENT AFTER D5 Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS ASSESSMENT after D5-2.cf)
-- [VIS ASSESSED SYRIAN ORDER OF BATTLE AFTER D5](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS D5 Syrian Order of Battle after D5-2-2.xlsx)
-- [VIS ASSESSMENT IADS AFTER D5 Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS IADS after D5.cf)
-- [VIS Planning for D6 Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS D6 Planning.cf)
+- [INTSUM VIS from D6](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS Pre D7 Targeting Meeting.pdf)
+- [VIS ASSESSMENT AFTER D6 Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS ASSESSMENT after D6-2.cf)
+- [VIS ASSESSED SYRIAN ORDER OF BATTLE AFTER D6](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS Syrian Order of Battle after D6-2.xlsx)
+- [VIS ASSESSMENT IADS AFTER D6 Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS IADS after D5.cf)
+- [VIS Planning for D7 Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS D6 Planning.cf)
 
 
 
@@ -59,7 +59,7 @@
 
 
 ### VIS INTELLIGENCE REQUIREMENTS
-- [VIS INTELLIGENCE REQUIREMENTS](/OPAR-Brief/INTELLIGENCE/VIS/VIS Intelligence Requirements after D5.xlsx)
+- [VIS INTELLIGENCE REQUIREMENTS](/OPAR-Brief/INTELLIGENCE/VIS/VIS Intelligence Requirements after D6-2.xlsx)
 
 <br>
 <br>

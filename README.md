@@ -24,9 +24,9 @@
 ### Joint Force Air Component Commander (JFACC)
 - [Joint Air Operations Plan (JAOP) ](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC JAOP.pdf)
 <br>
-- [Air Operations Directive D6](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D6 AOD.pdf)
+- [Air Operations Directive D6](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D7 AOD.pdf)
 - [Joint Prioritized Target List (JPTL) - not published, see AOD](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D3 JPTL.pdf)
-- [Airspace Control Order (ACO) D6](/OPAR-Brief/ORDERS/JFACC/OPAR_D6_ACO.cf)
+- [Airspace Control Order (ACO) D7](/OPAR-Brief/ORDERS/JFACC/OPAR_D7_ACO.cf)
 <br>
 <br>
 <br>
