@@ -27,6 +27,7 @@
 - [Air Operations Directive D7](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D7 AOD.pdf)
 - [Joint Prioritized Target List (JPTL) - not published, see AOD](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D3 JPTL.pdf)
 - [Airspace Control Order (ACO) D7](/OPAR-Brief/ORDERS/JFACC/OPAR_D7_ACO.cf)
+- [Standard Conventional Loads all aircrafts](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC Standard Conventional Loads.xlsx)
 <br>
 <br>
 <br>
