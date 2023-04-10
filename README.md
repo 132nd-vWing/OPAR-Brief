@@ -17,8 +17,8 @@
 ### CJTF-82 Orders
 - [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/CJTF/OPAR_CJTF_JFC OPERATION ORDER.pdf)
 <br>
-- [CJTF 82 - Directions&Guidance for D6 ](/OPAR-Brief/ORDERS/CJTF/OPAR CJTF DIRECTION AND GUIDANCE D6.pdf)
-- [CJTF 82 - Update on friendly situation D6 combatflite ](/OPAR-Brief/COMBATFLITE/OPAR Friendly situation.cf)
+- [CJTF 82 - Directions&Guidance for D7 ](/OPAR-Brief/ORDERS/CJTF/OPAR CJTF DIRECTION AND GUIDANCE D7.pdf)
+- [CJTF 82 - Update on friendly situation D7 combatflite ](/OPAR-Brief/COMBATFLITE/OPAR Friendly situation.cf)
 <br>
 <br>
 ### Joint Force Air Component Commander (JFACC)
