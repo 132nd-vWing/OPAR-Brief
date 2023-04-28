@@ -4,7 +4,6 @@
 [NEW TO OPAR? START HERE](/OPAR-Brief/ADMIN/Start.html)  
 <br>
 
-
 ### Situation
 - [Road to war (Scenario)](/OPAR-Brief/SITUATION/132nd OP ACTIVE RESOLVE Road to War brief v2.0.pdf) 
 <br>
@@ -24,9 +23,7 @@
 ### Joint Force Air Component Commander (JFACC)
 - [Joint Air Operations Plan (JAOP) ](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC JAOP.pdf)
 <br>
-- [Air Operations Directive D7](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D8 AOD.pdf)
-- [Joint Prioritized Target List (JPTL) - not published, see AOD](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D3 JPTL.pdf)
-- [Airspace Control Order (ACO) D7](/OPAR-Brief/ORDERS/JFACC/OPAR_D7_ACO.cf)
+- [Air Operations Directive D8](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D8 AOD.pdf)
 - [Standard Conventional Loads all aircrafts](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC Standard Conventional Loads.xlsx)
 <br>
 <br>
