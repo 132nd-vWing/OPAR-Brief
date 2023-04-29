@@ -47,7 +47,7 @@
 
 
 ### VIS INTELLIGENCE REQUIREMENTS
-- [VIS INTELLIGENCE REQUIREMENTS](/OPAR-Brief/INTELLIGENCE/VIS/VIS Intelligence Requirements after D6-2.xlsx)
+- [VIS INTELLIGENCE REQUIREMENTS](/OPAR-Brief/INTELLIGENCE/VIS/VIS Intelligence Requirements.xlsx)
 
 <br>
 <br>
