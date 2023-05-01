@@ -1,12 +1,12 @@
 # Weather and time
 
 ## Upcoming event
-D8.1
+D8.2
 
 ### Time in mission
 Server will be started:
-- 1700Z. Time in game is then 1500G
-- Event start at 1800Z. Time in game is then 1600G.  Sunset is at 1845G
+- 1700Z. Time in game is then 1600G
+- Event start at 1800Z. Time in game is then 1700G.  Sunset is at 1845G
 
 Z= Real world time
 G= Local In game time
@@ -14,7 +14,7 @@ G= Local In game time
 <br>
 
 ### Weather forecast
-D7.1: 
+D8.2: 
 - Preset: Light Scattered 1
 - METAR: FEW/SCT 7/8 
 - Base 13780ft
@@ -28,7 +28,6 @@ D7.1:
 
 
 ## Weather forecast next events:
-- D8.1: Day, Clear skies, winds from North-East
 - D8.2: Day into night, Clear skies, winds from North-East
 - D9.1: Broken, winds from North-East
 - D9.2: Day into night. Broken, winds from North-East
