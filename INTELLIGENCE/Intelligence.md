@@ -4,6 +4,7 @@
 ### Basic Intelligence
 - [INTREP VID B-001 Generic Ground Force Structure](/OPAR-Brief/INTELLIGENCE/VID/INTREP VID B-001 Generic Ground Force Structure.pdf)
 - [INTREP VID B-002 Generic Air Force Structure](/OPAR-Brief/INTELLIGENCE/VID/INTREP VID B-002 Generic Air Force Structure.pdf)
+- [INTREP VID B-003 Generic Navy Structure](/OPAR-Brief/INTELLIGENCE/VID/INTREP VID B-003 Generic Navy Structure.pdf)
 
 ### Syria as Candidate for Air attack
 - [INTREP VID OPAR-004 Syria as Candidate for Air Attack (SCAA)](/OPAR-Brief/INTELLIGENCE/VID/VID INTREP OPAR-004_Syria_as_candidate_for_Air_attack v1.2.pdf)
