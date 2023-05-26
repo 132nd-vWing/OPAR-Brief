@@ -49,6 +49,16 @@
 - [VIS Planning for D7 Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS D6 Planning.cf)
 
 
+
+
+- [VID INTSUM from D8](/OPAR-Brief/INTELLIGENCE/VID/OPAR VID INTSUM D8.pdf)
+
+
+- [INTSUM VIS from D8](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS INTSUM for D9.pdf)
+- [VIS ASSESSMENT AFTER D8 (IADS) Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS IADS after D8.cf)
+- [VIS ASSESSED SYRIAN ORDER OF BATTLE AFTER D7](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS Syrian Order of Battle after D8-2.xlsx)
+
+
 <br>
 <br>
 

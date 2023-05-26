@@ -31,15 +31,15 @@
 # Event specific intelligence reports
 
 ### Virtual Intelligence Directorate (VID) Intelligence summaries (INTSUM)
-- [VID INTSUM D7](/OPAR-Brief/INTELLIGENCE/VID/OPAR VID INTSUM D7.pdf)
+- [VID INTSUM from D8](/OPAR-Brief/INTELLIGENCE/VID/OPAR VID INTSUM D8.pdf)
 <br>
 <br>
 
 ### VIS INTSUM
-- [INTSUM VIS from D7](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS Pre D8 Targeting Meeting.pdf)
-- [VIS ASSESSMENT AFTER D7 (IADS) Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR_VIS_ASSESSMENT_after_D7-2_-_IADS_component.cf)
-- [VIS ASSESSED SYRIAN ORDER OF BATTLE AFTER D7](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS Syrian Order of Battle after D7-2.xlsx)
-- [VIS Planning for D8 Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR_VIS_D8_Planning.cf)
+- [INTSUM VIS from D8](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS INTSUM for D9.pdf)
+- [VIS ASSESSMENT AFTER D8 (IADS) Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS IADS after D8.cf)
+- [VIS ASSESSED SYRIAN ORDER OF BATTLE AFTER D7](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS Syrian Order of Battle after D8-2.xlsx)
+
 
 <br>
 <br>

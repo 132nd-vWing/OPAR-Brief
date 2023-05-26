@@ -25,7 +25,8 @@
 <br>
 
 - [Air Operations Directive D8](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D8 AOD.pdf)
-- [Airspace Control Order (ACO) D8](/OPAR-Brief/ORDERS/JFACC/OPAR_D8_ACO.cf)
+- [Targeting meeting for D9](/OPAR-Brief/ORDERS/JFACC/OPAR Targeting Meeting D9 for sharing.pdf)
+- [Airspace Control Order (ACO) D9](/OPAR-Brief/ORDERS/JFACC/OPAR_D9_ACO.cf)
 - [Standard Conventional Loads all aircrafts](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC Standard Conventional Loads.xlsx)
 <br>
 <br>
