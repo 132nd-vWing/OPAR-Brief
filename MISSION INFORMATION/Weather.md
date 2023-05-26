@@ -6,7 +6,7 @@ D9.1
 ### Time in mission
 Server will be started:
 - 1700Z. Time in game is then 0500G
-- Event start at 1800Z. Time in game is then 1600G.  Sunrise is at 0620G
+- Event start at 1800Z. Time in game is then 0600G.  Sunrise is at 0620G
 
 Z= Real world time
 G= Local In game time
