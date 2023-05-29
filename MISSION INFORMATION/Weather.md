@@ -1,12 +1,12 @@
 # Weather and time
 
 ## Upcoming event
-D9.1
+D9.2
 
 ### Time in mission
 Server will be started:
-- 1700Z. Time in game is then 0500G
-- Event start at 1800Z. Time in game is then 0600G.  Sunrise is at 0620G
+- 1700Z. Time in game is then 1500G
+- Event start at 1800Z. Time in game is then 1600G.  Sunset is at 1845G
 
 Z= Real world time
 G= Local In game time
@@ -28,12 +28,13 @@ G= Local In game time
 
 
 ## Weather forecast next events:
-- D9.1: Broken, winds from North-East
 - D9.2: Day into night. Broken, winds from North-East
 - D10.1: Day, overcast, rain,  winds from North-East
 - D10.2: Night, overcast, winds from North-East
 - D11.1: Day, clear skies, winds from North-East
 - D11.2: Day into night, clear skies, winds from North-East
+- D12.1: TBD
+- D12.2: TBD
 
 <br>
 <br>
