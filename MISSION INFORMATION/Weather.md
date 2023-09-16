@@ -14,8 +14,11 @@ G= Local In game time
 <br>
 
 ### Weather forecast
-
-TBD
+Weather: 
+QNH 29.99
+Wind: GND: 6kts from NE. FL260: 20kts from NE
+Temperature: 20 degrees
+METAR: FEW/SCT 8/10 SCT 23/24
 
 
 <br>
