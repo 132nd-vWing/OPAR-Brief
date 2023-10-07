@@ -6,7 +6,7 @@ D10.2
 ### Time in mission
 Server will be started:
 - 1700Z. Time in game is then 1500G
-- Event start at 1800Z. Time in game is then 1400G.    Sunset is at 1845G
+- Event start at 1800Z. Time in game is then 1600G.    Sunset is at 1845G
 
 Z= Real world time
 G= Local In game time
