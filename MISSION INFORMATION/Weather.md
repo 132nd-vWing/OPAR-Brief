@@ -1,12 +1,12 @@
 # Weather and time
 
 ## Upcoming event
-D10.2
+D11.1
 
 ### Time in mission
 Server will be started:
-- 1700Z. Time in game is then 1500G
-- Event start at 1800Z. Time in game is then 1600G.    Sunset is at 1845G
+- 1700Z. Time in game is then 0600G. Sunrise is at 0620G
+
 
 Z= Real world time
 G= Local In game time
@@ -15,10 +15,10 @@ G= Local In game time
 
 ### Weather forecast
 Weather: 
-QNH 30.02
-Wind: GND: 8kts from NE. FL260: 22kts from NE
-Temperature: 20 degrees
-METAR: SCT 8/9 FEW 21
+QNH 29.95
+Wind: GND: 12kts from NE. FL260: 24kts from NE
+Temperature: 18 degrees
+METAR: SCT/BKN 18/20 FEW 36/38 FEW 40
 
 
 <br>
@@ -33,6 +33,8 @@ METAR: SCT 8/9 FEW 21
 - D12.2: Night, overcast, winds from North-East
 - D13.1: Day, clear skies, winds from North-East
 - D13.2: Day into night, clear skies, winds from North-East
+- D14.1: Day, scattered/broken, winds from North-East
+- D14.2: Night, rain, winds from North-East
 
 <br>
 <br>
