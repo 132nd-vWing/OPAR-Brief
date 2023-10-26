@@ -24,9 +24,8 @@
 - [Joint Air Operations Plan (JAOP) ](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC JAOP.pdf)
 <br>
 
-- [Air Operations Directive D8 - not updated for D9-D10](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC D8 AOD.pdf)
-- [Targeting meeting for D9 - not updated for D10](/OPAR-Brief/ORDERS/JFACC/OPAR Targeting Meeting D9 for sharing.pdf)
-- [Airspace Control Order (ACO) D0](/OPAR-Brief/ORDERS/JFACC/OPAR_D10_ACO.cf)
+- [Targeting meeting for D11](/OPAR-Brief/ORDERS/JFACC/OPAR Targeting Meeting D11.pdf)
+- [Airspace Control Order (ACO) D11](/OPAR-Brief/ORDERS/JFACC/OPAR_D11_ACO.cf)
 - [Standard Conventional Loads all aircrafts](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC Standard Conventional Loads.xlsx)
 <br>
 <br>
