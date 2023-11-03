@@ -1,11 +1,11 @@
 # Weather and time
 
 ## Upcoming event
-D11.1
+D11.2
 
 ### Time in mission
 Server will be started:
-- 1700Z. Time in game is then 0600G. Sunrise is at 0620G
+- 1800Z. Time in game is then 2000G. (Full moon is up)
 
 
 Z= Real world time
@@ -18,7 +18,7 @@ Weather:
 QNH 29.95
 Wind: GND: 12kts from NE. FL260: 24kts from NE
 Temperature: 18 degrees
-METAR: SCT/BKN 18/20 FEW 36/38 FEW 40
+METAR: SCT/BKN 18/20 FEW 36/38 FEW 40  (DCS ME preset: High scattered 3, base 18000)
 
 
 <br>
@@ -27,7 +27,6 @@ METAR: SCT/BKN 18/20 FEW 36/38 FEW 40
 
 
 ## Weather forecast next events:
-- D11.1: Day, scattered/broken, winds from North-East
 - D11.2: Night, scattered, winds from North-East
 - D12.1: Day, overcast, rain,  winds from North-East
 - D12.2: Night, overcast, winds from North-East
