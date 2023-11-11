@@ -31,7 +31,7 @@
 # Event specific intelligence reports
 
 ### Virtual Intelligence Directorate (VID) Intelligence summaries (INTSUM)
-- [VID INTSUM from D10](/OPAR-Brief/INTELLIGENCE/VID/OPAR VID INTSUM D10.pdf)
+- [VID INTSUM from D11](/OPAR-Brief/INTELLIGENCE/VID/OPAR VID INTSUM D11.pdf)
 <br>
 <br>
 
