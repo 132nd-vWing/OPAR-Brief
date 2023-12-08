@@ -16,7 +16,7 @@
 ### CJTF-82 Orders
 - [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/CJTF/OPAR_CJTF_JFC OPERATION ORDER.pdf)
 <br>
-- [CJTF 82 - Directions&Guidance for D11](/OPAR-Brief/ORDERS/CJTF/OPAR CJTF DIRECTION AND GUIDANCE D11.pdf)
+- [CJTF 82 - Directions&Guidance for D12](/OPAR-Brief/ORDERS/CJTF/OPAR CJTF DIRECTION AND GUIDANCE D12.pdf)
 - [CJTF 82 - Update on friendly situation combatflite ](/OPAR-Brief/COMBATFLITE/OPAR Friendly situation.cf)
 <br>
 <br>
@@ -24,8 +24,8 @@
 - [Joint Air Operations Plan (JAOP) ](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC JAOP.pdf)
 <br>
 
-- [Targeting meeting for D11](/OPAR-Brief/ORDERS/JFACC/OPAR Targeting Meeting D11.pdf)
-- [Airspace Control Order (ACO) D11](/OPAR-Brief/ORDERS/JFACC/OPAR_D11_ACO.cf)
+- [Targeting meeting for D12](/OPAR-Brief/ORDERS/JFACC/OPAR Targeting Meeting D12.pdf)
+- [Airspace Control Order (ACO) D12](/OPAR-Brief/ORDERS/JFACC/OPAR_D12_ACO.cf)
 - [Standard Conventional Loads all aircrafts](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC Standard Conventional Loads.xlsx)
 <br>
 <br>

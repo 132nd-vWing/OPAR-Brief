@@ -60,6 +60,11 @@
 - [VIS ASSESSMENT AFTER D10 (IADS) Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS IADS after D10.cf)
 - [VIS ASSESSED SYRIAN ORDER OF BATTLE AFTER D7 (not updated after D8 and D9)](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS Syrian Order of Battle after D8-2.xlsx)
 
+- [VIS INTSUM D12 (Information from D11](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS INTSUM for D12.pdf)
+- [VIS ASSESSMENT AFTER D11 (IADS) Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS IADS after D11.cf)
+- [VIS ASSESSMENT AFTER D11 (Air) Combat Flite File](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS Air after D11.cf)
+- [VIS ASSESSED SYRIAN ORDER OF BATTLE AFTER D7 (not updated after D8, D9, D10 and D11)](/OPAR-Brief/INTELLIGENCE/VIS/OPAR VIS Syrian Order of Battle after D8-2.xlsx)
+
 
 <br>
 <br>
