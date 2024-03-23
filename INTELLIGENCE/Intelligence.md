@@ -47,6 +47,8 @@
 ### VIS INTREP
 - [INTREP VIS R-60 Air-to-Air missile on MI-24](/OPAR-Brief/INTELLIGENCE/VIS/INTREP/VIS INTREP_R-60_A2A-missile.pdf)
 - [INTREP VIS SA-10 at Bassel Al Assad](/OPAR-Brief/INTELLIGENCE/VIS/INTREP/VIS_INTREP_Russian_SA-10B_at_Bassel_Al-Assad.pdf)
+- [INTREP VIS Chinese surface units in the EMED](/OPAR-Brief/INTELLIGENCE/VIS/INTREP/VIS_INTREP_Chinese_Surface_Assets_in_the_EMED_D12.pdf)
+- [INTREP VIS Russian surface units in the EMED](/OPAR-Brief/INTELLIGENCE/VIS/INTREP/VIS_INTREP_Russian_Surface_Assets_in_the_EMED_D12.pdf)
 
 
 ### VIS INTELLIGENCE REQUIREMENTS
