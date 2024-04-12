@@ -1,11 +1,11 @@
 # Weather and time
 
 ## Upcoming event
-D12.1
+D12.2
 
 ### Time in mission
 Server will be started:
-- 1800Z. Time in game is then 0700G. 
+- 1700Z. Time in game is then 1500G. 
 
 
 Z= Real world time
@@ -15,9 +15,9 @@ G= Local In game time
 
 ### Weather forecast
 Weather: 
-QNH 29.85
-Wind: GND: 12kts from NE. FL260: 24kts from NE
-Temperature: 17 degrees
+QNH 29.74
+Wind: GND: 14kts from NE. FL260: 32kts from NE
+Temperature: 19 degrees
 METAR: OVC 8/15 SCT/BKN 25/26 34/36  (DCS ME preset: Overcast 7, base 8200)
 
 
@@ -27,7 +27,6 @@ METAR: OVC 8/15 SCT/BKN 25/26 34/36  (DCS ME preset: Overcast 7, base 8200)
 
 
 ## Weather forecast next events:
-- D12.2: Day, overcast, rain, winds from North-East
 - D13.1: Day, clear skies, winds from North-East
 - D13.2: Day into night, clear skies, winds from North-East
 - D14.1: Day, scattered/broken, winds from North-East
